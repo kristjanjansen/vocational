@@ -1,0 +1,1885 @@
+{
+    "entities": [
+        {
+            "nid": "8499",
+            "path": "/erialad/pagar-kondiiter",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "10947": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "kool@olustvere.edu.ee",
+                    "fieldSchoolContactPhone": "4374290",
+                    "fieldSchoolLocation": {
+                        "8522": {
+                            "fieldAddress": "Müüri tn 4, Olustvere alevik, Põhja-Sakala vald, Viljandi maakond",
+                            "fieldCoordinates": {
+                                "name": "Müüri tn 4, Olustvere alevik, Põhja-Sakala vald, Viljandi maakond",
+                                "lat": "58.5556",
+                                "lon": "25.56782",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "372": "Olustvere alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.olustvere.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Olustvere Teenindus- ja Maamajanduskool",
+                    "created": "1538404134"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Müüri tn 4, Olustvere alevik, Põhja-Sakala vald, Viljandi maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.olustvere.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "toidu tehnoloogia, määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": null,
+            "uid": "1",
+            "title": "Pagar - kondiiter",
+            "created": "1537777073"
+        },
+        {
+            "nid": "8500",
+            "path": "/erialad/tekstiilit%C3%B6%C3%B6-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "10947": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "kool@olustvere.edu.ee",
+                    "fieldSchoolContactPhone": "4374290",
+                    "fieldSchoolLocation": {
+                        "8522": {
+                            "fieldAddress": "Müüri tn 4, Olustvere alevik, Põhja-Sakala vald, Viljandi maakond",
+                            "fieldCoordinates": {
+                                "name": "Müüri tn 4, Olustvere alevik, Põhja-Sakala vald, Viljandi maakond",
+                                "lat": "58.5556",
+                                "lon": "25.56782",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "372": "Olustvere alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.olustvere.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Olustvere Teenindus- ja Maamajanduskool",
+                    "created": "1538404134"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Müüri tn 4, Olustvere alevik, Põhja-Sakala vald, Viljandi maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.olustvere.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": null,
+            "uid": "1",
+            "title": "Tekstiilitöö",
+            "created": "1537777073"
+        },
+        {
+            "nid": "8501",
+            "path": "/erialad/kokk-30",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "150",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "11741": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "kool@vikk.ee",
+                    "fieldSchoolContactPhone": "3724351020",
+                    "fieldSchoolLocation": {
+                        "9314": {
+                            "fieldAddress": "Koolmeistri tee 10, Vana-Võidu küla, Viljandi vald, Viljandi maakond",
+                            "fieldCoordinates": {
+                                "name": "Koolmeistri tee 10, Vana-Võidu küla, Viljandi vald, Viljandi maakond",
+                                "lat": "58.393041",
+                                "lon": "25.659294",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "550": "Vana-Võidu küla"
+                            },
+                            "paraType": "school_location"
+                        },
+                        "373058": {
+                            "fieldAddress": "Looduse tee 2, Vana-Võidu küla, Viljandi vald, Viljandi maakond",
+                            "fieldCoordinates": {
+                                "name": "Looduse tee 2, Vana-Võidu küla, Viljandi vald, Viljandi maakond",
+                                "lat": "58.390423",
+                                "lon": "25.661719",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": null,
+                            "fieldSchoolLocation": null,
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.vikk.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Viljandi Kutseõppekeskus",
+                    "created": "1538404287"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "42",
+            "fieldSchoolAddress": "Koolmeistri tee 10, Vana-Võidu küla, Viljandi vald, Viljandi maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.vikk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": null,
+            "uid": "1",
+            "title": "Kokk",
+            "created": "1537777073"
+        },
+        {
+            "nid": "8502",
+            "path": "/erialad/puit-ja-kiviehitiste-restauraator-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "10419": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "hiiumaa.ametikool@hak.edu.ee",
+                    "fieldSchoolContactPhone": "4694391",
+                    "fieldSchoolLocation": {
+                        "7994": {
+                            "fieldAddress": "Lossi tee 3, Suuremõisa küla, Hiiumaa vald, Hiiu maakond",
+                            "fieldCoordinates": {
+                                "name": "Lossi tee 3, Suuremõisa küla, Hiiumaa vald, Hiiu maakond",
+                                "lat": "58.870098",
+                                "lon": "22.945822",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "161": "Suuremõisa küla"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.hak.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Hiiumaa Ametikool",
+                    "created": "1538404006"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Uus tn 2, Suuremõisa küla, Hiiumaa vald, Hiiu maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.hak.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Puit- ja kiviehitiste restauraator",
+            "created": "1537777073"
+        },
+        {
+            "nid": "8504",
+            "path": "/erialad/mootors%C3%B5idukidiagnostik-osakutse-elektri-ja-h%C3%BCbriidmasinate-diagnostik",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "30",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "6",
+            "fieldEducationalInstitution": {
+                "10744": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "kool@vigalattk.ee",
+                    "fieldSchoolContactPhone": "5052766",
+                    "fieldSchoolLocation": {
+                        "8319": {
+                            "fieldAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+                                "lat": "58.779529",
+                                "lon": "24.24935",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "319": "Vana-Vigala küla"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.vigalattk.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Vana-Vigala Tehnika- ja Teeninduskool",
+                    "created": "1538404084"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2550": "Mootorliikurid, laevandus ja lennundustehnika"
+            },
+            "fieldIscedfNarrow": {
+                "2539": "Tehnikaalad"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "14",
+            "fieldSchoolAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.vigalattk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2013": "Kutseõpe keskhariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Mootorsõidukidiagnostik (osakutse Elektri- ja hübriidmasinate diagnostik)",
+            "created": "1537777075"
+        },
+        {
+            "nid": "8505",
+            "path": "/erialad/it-tugiisik-4",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "60",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": null,
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "15",
+            "fieldSchoolAddress": "Pikk tn 1a, Väike-Maarja alevik, Väike-Maarja vald, Lääne-Viru maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.v-maarja.ee/vmok",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": null,
+            "uid": "1",
+            "title": "IT tugiisik",
+            "created": "1537777075"
+        },
+        {
+            "nid": "8508",
+            "path": "/erialad/v%C3%A4ikesadama-spetsialist-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "60",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "10419": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "hiiumaa.ametikool@hak.edu.ee",
+                    "fieldSchoolContactPhone": "4694391",
+                    "fieldSchoolLocation": {
+                        "7994": {
+                            "fieldAddress": "Lossi tee 3, Suuremõisa küla, Hiiumaa vald, Hiiu maakond",
+                            "fieldCoordinates": {
+                                "name": "Lossi tee 3, Suuremõisa küla, Hiiumaa vald, Hiiu maakond",
+                                "lat": "58.870098",
+                                "lon": "22.945822",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "161": "Suuremõisa küla"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.hak.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Hiiumaa Ametikool",
+                    "created": "1538404006"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "15",
+            "fieldSchoolAddress": "Uus tn 2, Suuremõisa küla, Hiiumaa vald, Hiiu maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.hak.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Väikesadama spetsialist",
+            "created": "1537777075"
+        },
+        {
+            "nid": "8509",
+            "path": "/erialad/veev%C3%A4rgilukksepp-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "90",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "18",
+            "fieldEducationalInstitution": {
+                "9002": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "1688": "Munitsipaal"
+                    },
+                    "fieldSchoolContactEmail": "info@tark.edu.ee",
+                    "fieldSchoolContactPhone": "6644670",
+                    "fieldSchoolLocation": {
+                        "6584": {
+                            "fieldAddress": "Kopli tn 98/1, Põhja-Tallinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Kopli tn 98/1, Põhja-Tallinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.455416",
+                                "lon": "24.68659",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "67": "Põhja-Tallinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://tark.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Rakenduslik Kolledž",
+                    "created": "1538403751"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2568": "Ehitus ja tsiviilrajatised"
+            },
+            "fieldIscedfNarrow": {
+                "2565": "Arhitektuur ja ehitus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "25",
+            "fieldSchoolAddress": "Kopli tn 98/1, Põhja-Tallinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": "Põhja-Tallinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolWebsite": "http://www.tkak.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1691": "vene keel"
+            },
+            "uid": "1",
+            "title": "Veevärgilukksepp",
+            "created": "1537777075"
+        },
+        {
+            "nid": "8510",
+            "path": "/erialad/muusikateooria-eriala",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "240",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9639": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "otsakool@otsakool.edu.ee",
+                    "fieldSchoolContactPhone": "5887 1991",
+                    "fieldSchoolLocation": {
+                        "7217": {
+                            "fieldAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.434729072967",
+                                "lon": "24.745243391489",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.otsakool.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "G. Otsa nim Tallinna Muusikakool",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "99",
+            "fieldSchoolAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.otsakool.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Muusikateooria eriala",
+            "created": "1537777075"
+        },
+        {
+            "nid": "8511",
+            "path": "/erialad/laevaelektrik",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "19",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "4",
+            "fieldEducationalInstitution": {
+                "9040": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "eesti.merekool@merekool.ee",
+                    "fieldSchoolContactPhone": "6135483",
+                    "fieldSchoolLocation": {
+                        "6622": {
+                            "fieldAddress": "Kopli tn 101, Põhja-Tallinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Kopli tn 101, Põhja-Tallinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.46158",
+                                "lon": "24.666239",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "67": "Põhja-Tallinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.merekool.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Eesti Merekool",
+                    "created": "1538403758"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2544": "Elektrienergia ja energeetika"
+            },
+            "fieldIscedfNarrow": {
+                "2539": "Tehnikaalad"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "9",
+            "fieldSchoolAddress": "Kopli tn 101, Põhja-Tallinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.merekool.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2013": "Kutseõpe keskhariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Laevaelektrik",
+            "created": "1537777075"
+        },
+        {
+            "nid": "8512",
+            "path": "/erialad/laot%C3%B6%C3%B6taja",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "90",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "18",
+            "fieldEducationalInstitution": {
+                "11707": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@vkok.ee",
+                    "fieldSchoolContactPhone": "7668575",
+                    "fieldSchoolLocation": {
+                        "9280": {
+                            "fieldAddress": "Loode tn 3/1, Valga linn, Valga vald, Valga maakond",
+                            "fieldCoordinates": {
+                                "name": "Loode tn 3/1, Valga linn, Valga vald, Valga maakond",
+                                "lat": "57.789563",
+                                "lon": "26.035708",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "539": "Valga linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.vkok.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Valgamaa Kutseõppekeskus",
+                    "created": "1538404280"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2661": "Transporditeenused"
+            },
+            "fieldIscedfNarrow": {
+                "2660": "Transporditeenused"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "32",
+            "fieldSchoolAddress": "Loode tn 3/1, Valga linn, Valga vald, Valga maakond",
+            "fieldSchoolSearchAddress": "Valga linn, Valga vald, Valga maakond",
+            "fieldSchoolWebsite": "http://www.vkok.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Laotöötaja",
+            "created": "1537777075"
+        },
+        {
+            "nid": "8513",
+            "path": "/erialad/puuk%C3%A4sit%C3%B6%C3%B6line-osakutse-puitesemete-ja-detailide-valmistamine-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "30",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9002": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "1688": "Munitsipaal"
+                    },
+                    "fieldSchoolContactEmail": "info@tark.edu.ee",
+                    "fieldSchoolContactPhone": "6644670",
+                    "fieldSchoolLocation": {
+                        "6584": {
+                            "fieldAddress": "Kopli tn 98/1, Põhja-Tallinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Kopli tn 98/1, Põhja-Tallinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.455416",
+                                "lon": "24.68659",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "67": "Põhja-Tallinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://tark.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Rakenduslik Kolledž",
+                    "created": "1538403751"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "9",
+            "fieldSchoolAddress": "Kopli tn 98, Põhja-Tallinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.tkak.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel",
+                "1691": "vene keel"
+            },
+            "uid": "1",
+            "title": "Puukäsitööline (osakutse - Puitesemete ja detailide valmistamine)",
+            "created": "1537777075"
+        },
+        {
+            "nid": "8514",
+            "path": "/erialad/r%C3%A4tsepat%C3%B6%C3%B6-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "11017": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "parnumaa@hariduskeskus.ee",
+                    "fieldSchoolContactPhone": "4427888",
+                    "fieldSchoolLocation": {
+                        "8592": {
+                            "fieldAddress": "Niidupargi tn 12, Pärnu linn, Pärnu linn, Pärnu maakond",
+                            "fieldCoordinates": null,
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "399": "Pärnu linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.hariduskeskus.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Pärnumaa Kutsehariduskeskus",
+                    "created": "1538404146"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Niidupargi tn 12, Pärnu linn, Pärnu linn, Pärnu maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.hariduskeskus.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "rõivatootmine",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Rätsepatöö",
+            "created": "1537777075"
+        },
+        {
+            "nid": "8515",
+            "path": "/erialad/r%C3%BCtmimuusika-laulmise-eriala-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "240",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9639": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "otsakool@otsakool.edu.ee",
+                    "fieldSchoolContactPhone": "5887 1991",
+                    "fieldSchoolLocation": {
+                        "7217": {
+                            "fieldAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.434729072967",
+                                "lon": "24.745243391489",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.otsakool.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "G. Otsa nim Tallinna Muusikakool",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "135",
+            "fieldSchoolAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.otsakool.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Rütmimuusika laulmise eriala",
+            "created": "1537777075"
+        },
+        {
+            "nid": "8516",
+            "path": "/erialad/r%C3%BCtmimuusika-laulmise-eriala",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9639": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "otsakool@otsakool.edu.ee",
+                    "fieldSchoolContactPhone": "5887 1991",
+                    "fieldSchoolLocation": {
+                        "7217": {
+                            "fieldAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.434729072967",
+                                "lon": "24.745243391489",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.otsakool.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "G. Otsa nim Tallinna Muusikakool",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "135",
+            "fieldSchoolAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.otsakool.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Rütmimuusika laulmise eriala",
+            "created": "1537777075"
+        },
+        {
+            "nid": "8517",
+            "path": "/erialad/r%C3%BCtmimuusika-pillide-eriala",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "240",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9639": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "otsakool@otsakool.edu.ee",
+                    "fieldSchoolContactPhone": "5887 1991",
+                    "fieldSchoolLocation": {
+                        "7217": {
+                            "fieldAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.434729072967",
+                                "lon": "24.745243391489",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.otsakool.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "G. Otsa nim Tallinna Muusikakool",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "144",
+            "fieldSchoolAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.otsakool.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Rütmimuusika pillide eriala",
+            "created": "1537777075"
+        },
+        {
+            "nid": "8518",
+            "path": "/erialad/helindaja-eriala-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "240",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9639": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "otsakool@otsakool.edu.ee",
+                    "fieldSchoolContactPhone": "5887 1991",
+                    "fieldSchoolLocation": {
+                        "7217": {
+                            "fieldAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.434729072967",
+                                "lon": "24.745243391489",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.otsakool.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "G. Otsa nim Tallinna Muusikakool",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "45",
+            "fieldSchoolAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.otsakool.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Helindaja eriala",
+            "created": "1537777075"
+        },
+        {
+            "nid": "8519",
+            "path": "/erialad/helindaja-eriala-1",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9639": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "otsakool@otsakool.edu.ee",
+                    "fieldSchoolContactPhone": "5887 1991",
+                    "fieldSchoolLocation": {
+                        "7217": {
+                            "fieldAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.434729072967",
+                                "lon": "24.745243391489",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.otsakool.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "G. Otsa nim Tallinna Muusikakool",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "45",
+            "fieldSchoolAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.otsakool.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Helindaja eriala",
+            "created": "1537777075"
+        },
+        {
+            "nid": "8520",
+            "path": "/erialad/oreli-eriala",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9639": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "otsakool@otsakool.edu.ee",
+                    "fieldSchoolContactPhone": "5887 1991",
+                    "fieldSchoolLocation": {
+                        "7217": {
+                            "fieldAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.434729072967",
+                                "lon": "24.745243391489",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.otsakool.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "G. Otsa nim Tallinna Muusikakool",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "107",
+            "fieldSchoolAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.otsakool.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Oreli eriala",
+            "created": "1537777075"
+        },
+        {
+            "nid": "8523",
+            "path": "/erialad/kompositsiooni-eriala-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "240",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9639": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "otsakool@otsakool.edu.ee",
+                    "fieldSchoolContactPhone": "5887 1991",
+                    "fieldSchoolLocation": {
+                        "7217": {
+                            "fieldAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.434729072967",
+                                "lon": "24.745243391489",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.otsakool.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "G. Otsa nim Tallinna Muusikakool",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "99",
+            "fieldSchoolAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.otsakool.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Kompositsiooni eriala",
+            "created": "1537777076"
+        },
+        {
+            "nid": "8524",
+            "path": "/erialad/automaatik-7",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "210",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9640": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@tptlive.ee",
+                    "fieldSchoolContactPhone": "6103601",
+                    "fieldSchoolLocation": {
+                        "7218": {
+                            "fieldAddress": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.426876",
+                                "lon": "24.743416",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.tptlive.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Polütehnikum",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "38",
+            "fieldSchoolAddress": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.tptlive.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel",
+                "1691": "vene keel"
+            },
+            "uid": "1",
+            "title": "Automaatik",
+            "created": "1537777076"
+        },
+        {
+            "nid": "8525",
+            "path": "/erialad/sepat%C3%B6%C3%B6",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": null,
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "36",
+            "fieldSchoolAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.vigalattk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": null,
+            "uid": "1",
+            "title": "sepatöö",
+            "created": "1537777076"
+        },
+        {
+            "nid": "8527",
+            "path": "/erialad/klaverite-hooldusmeistri-eriala",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9639": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "otsakool@otsakool.edu.ee",
+                    "fieldSchoolContactPhone": "5887 1991",
+                    "fieldSchoolLocation": {
+                        "7217": {
+                            "fieldAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.434729072967",
+                                "lon": "24.745243391489",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.otsakool.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "G. Otsa nim Tallinna Muusikakool",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "132",
+            "fieldSchoolAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.otsakool.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Klaverite hooldusmeistri eriala",
+            "created": "1537777076"
+        },
+        {
+            "nid": "8529",
+            "path": "/erialad/kompositsiooni-eriala-1",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9639": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "otsakool@otsakool.edu.ee",
+                    "fieldSchoolContactPhone": "5887 1991",
+                    "fieldSchoolLocation": {
+                        "7217": {
+                            "fieldAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.434729072967",
+                                "lon": "24.745243391489",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.otsakool.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "G. Otsa nim Tallinna Muusikakool",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "99",
+            "fieldSchoolAddress": "Müürivahe tn 12, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.otsakool.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Kompositsiooni eriala",
+            "created": "1537777076"
+        }
+    ],
+    "count": 3876,
+    "field_neurotolge_state": "translated_with_neurotolge"
+}

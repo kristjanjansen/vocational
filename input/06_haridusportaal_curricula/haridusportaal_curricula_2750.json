@@ -1,0 +1,1206 @@
+{
+    "entities": [
+        {
+            "nid": "37457136",
+            "path": "/erialad/autoplekksepp-komplekteerija-11",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "36",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2550": "Mootorliikurid, laevandus ja lennundustehnika"
+            },
+            "fieldIscedfNarrow": {
+                "2539": "Tehnikaalad"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "45",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2012": "Kutsekeskharidusõpe",
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Autoplekksepp-komplekteerija",
+            "created": "1752103560"
+        },
+        {
+            "nid": "37457191",
+            "path": "/erialad/mootors%C3%B5idukitehnik-spetsialiseerumines%C3%B5iduautotehnika",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "24",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2550": "Mootorliikurid, laevandus ja lennundustehnika"
+            },
+            "fieldIscedfNarrow": {
+                "2539": "Tehnikaalad"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "40",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Mootorsõidukitehnik (spetsialiseerumine/sõiduautotehnika)",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37457192",
+            "path": "/erialad/m%C3%B6%C3%B6blirestauraator-10",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "24",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2557": "Materjalide töötlemine (klaas, paber, plast ja puit)"
+            },
+            "fieldIscedfNarrow": {
+                "2554": "Tootmine ja töötlemine"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Mööblirestauraator",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37457193",
+            "path": "/erialad/kokk-68",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "36",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2638": "Majutamine ja toitlustamine"
+            },
+            "fieldIscedfNarrow": {
+                "2633": "Isikuteenindus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "34",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2012": "Kutsekeskharidusõpe",
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Kokk",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37457194",
+            "path": "/erialad/kokk-69",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "36",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2638": "Majutamine ja toitlustamine"
+            },
+            "fieldIscedfNarrow": {
+                "2633": "Isikuteenindus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "36",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2012": "Kutsekeskharidusõpe",
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Kokk",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37457195",
+            "path": "/erialad/k%C3%B6%C3%B6giabiline-8",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "24",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2638": "Majutamine ja toitlustamine"
+            },
+            "fieldIscedfNarrow": {
+                "2633": "Isikuteenindus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "20",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2372": "Põhihariduse nõudeta kutseõpe"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Köögiabiline",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37457196",
+            "path": "/erialad/maaler-22",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "60",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "12",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2568": "Ehitus ja tsiviilrajatised"
+            },
+            "fieldIscedfNarrow": {
+                "2565": "Arhitektuur ja ehitus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "15",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Maaler",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37457197",
+            "path": "/erialad/m%C3%B6%C3%B6blirestauraator-11",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "24",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2557": "Materjalide töötlemine (klaas, paber, plast ja puit)"
+            },
+            "fieldIscedfNarrow": {
+                "2554": "Tootmine ja töötlemine"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Mööblirestauraator",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37457198",
+            "path": "/erialad/puhastusteenindaja-28",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "60",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "12",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2634": "Koduteenindus"
+            },
+            "fieldIscedfNarrow": {
+                "2633": "Isikuteenindus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "17",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2372": "Põhihariduse nõudeta kutseõpe"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Puhastusteenindaja",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37457199",
+            "path": "/erialad/puhastusteenindaja-abiline-20",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "24",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2634": "Koduteenindus"
+            },
+            "fieldIscedfNarrow": {
+                "2633": "Isikuteenindus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "15",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2372": "Põhihariduse nõudeta kutseõpe"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Puhastusteenindaja abiline",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37457200",
+            "path": "/erialad/puuk%C3%A4sit%C3%B6%C3%B6-3",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "24",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2402": "Humanitaaria ja kunstid"
+            },
+            "fieldIscedfDetailed": {
+                "2410": "Käsitöö"
+            },
+            "fieldIscedfNarrow": {
+                "2403": "Kunstid"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Puukäsitöö",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37457201",
+            "path": "/erialad/s%C3%B5idukite-pindade-hooldaja-ja-rehvitehnik-10",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "60",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "12",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2550": "Mootorliikurid, laevandus ja lennundustehnika"
+            },
+            "fieldIscedfNarrow": {
+                "2539": "Tehnikaalad"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "15",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2372": "Põhihariduse nõudeta kutseõpe"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Sõidukite pindade hooldaja ja rehvitehnik",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37457202",
+            "path": "/erialad/ehitusviimistlus-34",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "36",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2568": "Ehitus ja tsiviilrajatised"
+            },
+            "fieldIscedfNarrow": {
+                "2565": "Arhitektuur ja ehitus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "28",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2012": "Kutsekeskharidusõpe",
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Ehitusviimistlus",
+            "created": "1752276300"
+        }
+    ],
+    "count": 3876,
+    "field_neurotolge_state": "translated_with_neurotolge"
+}

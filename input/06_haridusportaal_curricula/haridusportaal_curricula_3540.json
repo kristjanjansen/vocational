@@ -1,0 +1,1867 @@
+{
+    "entities": [
+        {
+            "nid": "8536",
+            "path": "/erialad/kivi-ja-betoonkonstruktsioonide-ehitus-8",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "11411": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "1688": "Munitsipaal"
+                    },
+                    "fieldSchoolContactEmail": "info@voco.ee",
+                    "fieldSchoolContactPhone": "7361866",
+                    "fieldSchoolLocation": {
+                        "8984": {
+                            "fieldAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                            "fieldCoordinates": {
+                                "name": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                                "lat": "58.3494",
+                                "lon": "26.714176",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "494": "Tartu linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://voco.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tartu Rakenduslik Kolledž",
+                    "created": "1538404224"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "38",
+            "fieldSchoolAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://khk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Kivi- ja betoonkonstruktsioonide ehitus",
+            "created": "1537777076"
+        },
+        {
+            "nid": "8537",
+            "path": "/erialad/arvutid-ja-arvutiv%C3%B5rgud-7",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "210",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "11121": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@rak.ee",
+                    "fieldSchoolContactPhone": "3295030",
+                    "fieldSchoolLocation": {
+                        "8696": {
+                            "fieldAddress": "Piiri tn 8, Rakvere linn, Lääne-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Piiri tn 8, Rakvere linn, Lääne-Viru maakond",
+                                "lat": "59.337771",
+                                "lon": "26.374869",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "406": "Rakvere linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rak.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Rakvere Ametikool",
+                    "created": "1538404166"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "38",
+            "fieldSchoolAddress": "Piiri tn 8, Rakvere linn, Lääne-Viru maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.rak.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Arvutid ja arvutivõrgud",
+            "created": "1537777076"
+        },
+        {
+            "nid": "8538",
+            "path": "/erialad/kokk-32",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "210",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "11121": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@rak.ee",
+                    "fieldSchoolContactPhone": "3295030",
+                    "fieldSchoolLocation": {
+                        "8696": {
+                            "fieldAddress": "Piiri tn 8, Rakvere linn, Lääne-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Piiri tn 8, Rakvere linn, Lääne-Viru maakond",
+                                "lat": "59.337771",
+                                "lon": "26.374869",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "406": "Rakvere linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rak.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Rakvere Ametikool",
+                    "created": "1538404166"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "42",
+            "fieldSchoolAddress": "Piiri tn 8, Rakvere linn, Lääne-Viru maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.rak.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Kokk",
+            "created": "1537777076"
+        },
+        {
+            "nid": "8539",
+            "path": "/erialad/r%C3%A4tsepat%C3%B6%C3%B6-3",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9538": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@tthk.ee",
+                    "fieldSchoolContactPhone": "6542833",
+                    "fieldSchoolLocation": {
+                        "7117": {
+                            "fieldAddress": "Sõpruse pst 182, Kristiine linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Sõpruse pst 182, Kristiine linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.413143",
+                                "lon": "24.703968",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "72": "Kristiine linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.tthk.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Tööstushariduskeskus",
+                    "created": "1538403847"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Sõpruse pst 182, Kristiine linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.tthk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "rõivadisain",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel",
+                "1691": "vene keel"
+            },
+            "uid": "1",
+            "title": "Rätsepatöö",
+            "created": "1537777076"
+        },
+        {
+            "nid": "8541",
+            "path": "/erialad/tr%C3%BCkitehnoloogia-1",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9640": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@tptlive.ee",
+                    "fieldSchoolContactPhone": "6103601",
+                    "fieldSchoolLocation": {
+                        "7218": {
+                            "fieldAddress": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.426876",
+                                "lon": "24.743416",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.tptlive.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Polütehnikum",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "36",
+            "fieldSchoolAddress": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.tptlive.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "trükiettevalmistaja, ofsettrükkal",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Trükitehnoloogia",
+            "created": "1537777077"
+        },
+        {
+            "nid": "8542",
+            "path": "/erialad/multimeedium-veebispetsialist",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9640": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@tptlive.ee",
+                    "fieldSchoolContactPhone": "6103601",
+                    "fieldSchoolLocation": {
+                        "7218": {
+                            "fieldAddress": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.426876",
+                                "lon": "24.743416",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.tptlive.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Polütehnikum",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.tptlive.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "veebitehnoloogiad",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Multimeedium (veebispetsialist)",
+            "created": "1537777077"
+        },
+        {
+            "nid": "8543",
+            "path": "/erialad/elektrik-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9640": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@tptlive.ee",
+                    "fieldSchoolContactPhone": "6103601",
+                    "fieldSchoolLocation": {
+                        "7218": {
+                            "fieldAddress": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.426876",
+                                "lon": "24.743416",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.tptlive.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Polütehnikum",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "32",
+            "fieldSchoolAddress": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.tptlive.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel",
+                "1691": "vene keel"
+            },
+            "uid": "1",
+            "title": "Elektrik",
+            "created": "1537777077"
+        },
+        {
+            "nid": "8544",
+            "path": "/erialad/arvutid-ja-arvutiv%C3%B5rgud-5",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "150",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9640": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@tptlive.ee",
+                    "fieldSchoolContactPhone": "6103601",
+                    "fieldSchoolLocation": {
+                        "7218": {
+                            "fieldAddress": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.426876",
+                                "lon": "24.743416",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.tptlive.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Polütehnikum",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "38",
+            "fieldSchoolAddress": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.tptlive.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel",
+                "1691": "vene keel"
+            },
+            "uid": "1",
+            "title": "Arvutid ja arvutivõrgud",
+            "created": "1537777077"
+        },
+        {
+            "nid": "8545",
+            "path": "/erialad/elektroonikaseadmete-koostaja-4",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9640": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@tptlive.ee",
+                    "fieldSchoolContactPhone": "6103601",
+                    "fieldSchoolLocation": {
+                        "7218": {
+                            "fieldAddress": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.426876",
+                                "lon": "24.743416",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.tptlive.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Polütehnikum",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.tptlive.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "elektroonika",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Elektroonikaseadmete koostaja",
+            "created": "1537777077"
+        },
+        {
+            "nid": "8546",
+            "path": "/erialad/arvutid-ja-arvutiv%C3%B5rgud-4",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "210",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "9640": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@tptlive.ee",
+                    "fieldSchoolContactPhone": "6103601",
+                    "fieldSchoolLocation": {
+                        "7218": {
+                            "fieldAddress": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.426876",
+                                "lon": "24.743416",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.tptlive.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Polütehnikum",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "38",
+            "fieldSchoolAddress": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.tptlive.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel",
+                "1691": "vene keel"
+            },
+            "uid": "1",
+            "title": "Arvutid ja arvutivõrgud",
+            "created": "1537777077"
+        },
+        {
+            "nid": "8547",
+            "path": "/erialad/autotehnik-8",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "210",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": null,
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "48",
+            "fieldSchoolAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.vigalattk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": null,
+            "uid": "1",
+            "title": "Autotehnik",
+            "created": "1537777077"
+        },
+        {
+            "nid": "8548",
+            "path": "/erialad/autoplekksepp-2",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "11411": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "1688": "Munitsipaal"
+                    },
+                    "fieldSchoolContactEmail": "info@voco.ee",
+                    "fieldSchoolContactPhone": "7361866",
+                    "fieldSchoolLocation": {
+                        "8984": {
+                            "fieldAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                            "fieldCoordinates": {
+                                "name": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                                "lat": "58.3494",
+                                "lon": "26.714176",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "494": "Tartu linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://voco.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tartu Rakenduslik Kolledž",
+                    "created": "1538404224"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "24",
+            "fieldSchoolAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://khk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Autoplekksepp",
+            "created": "1537777077"
+        },
+        {
+            "nid": "8549",
+            "path": "/erialad/ehitusviimistlus-15",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "11411": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "1688": "Munitsipaal"
+                    },
+                    "fieldSchoolContactEmail": "info@voco.ee",
+                    "fieldSchoolContactPhone": "7361866",
+                    "fieldSchoolLocation": {
+                        "8984": {
+                            "fieldAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                            "fieldCoordinates": {
+                                "name": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                                "lat": "58.3494",
+                                "lon": "26.714176",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "494": "Tartu linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://voco.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tartu Rakenduslik Kolledž",
+                    "created": "1538404224"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "38",
+            "fieldSchoolAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://khk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Ehitusviimistlus",
+            "created": "1537777077"
+        },
+        {
+            "nid": "8550",
+            "path": "/erialad/keskkonnatehnika-lukksepp-2",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "11411": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "1688": "Munitsipaal"
+                    },
+                    "fieldSchoolContactEmail": "info@voco.ee",
+                    "fieldSchoolContactPhone": "7361866",
+                    "fieldSchoolLocation": {
+                        "8984": {
+                            "fieldAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                            "fieldCoordinates": {
+                                "name": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                                "lat": "58.3494",
+                                "lon": "26.714176",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "494": "Tartu linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://voco.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tartu Rakenduslik Kolledž",
+                    "created": "1538404224"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "38",
+            "fieldSchoolAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://khk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Keskkonnatehnika lukksepp",
+            "created": "1537777077"
+        },
+        {
+            "nid": "8552",
+            "path": "/erialad/pagar-3",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "210",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "11411": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "1688": "Munitsipaal"
+                    },
+                    "fieldSchoolContactEmail": "info@voco.ee",
+                    "fieldSchoolContactPhone": "7361866",
+                    "fieldSchoolLocation": {
+                        "8984": {
+                            "fieldAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                            "fieldCoordinates": {
+                                "name": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                                "lat": "58.3494",
+                                "lon": "26.714176",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "494": "Tartu linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://voco.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tartu Rakenduslik Kolledž",
+                    "created": "1538404224"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://khk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Pagar",
+            "created": "1537777077"
+        },
+        {
+            "nid": "8553",
+            "path": "/erialad/pagar-kondiiter-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "11411": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "1688": "Munitsipaal"
+                    },
+                    "fieldSchoolContactEmail": "info@voco.ee",
+                    "fieldSchoolContactPhone": "7361866",
+                    "fieldSchoolLocation": {
+                        "8984": {
+                            "fieldAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                            "fieldCoordinates": {
+                                "name": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                                "lat": "58.3494",
+                                "lon": "26.714176",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "494": "Tartu linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://voco.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tartu Rakenduslik Kolledž",
+                    "created": "1538404224"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://khk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Pagar-kondiiter",
+            "created": "1537777077"
+        },
+        {
+            "nid": "8554",
+            "path": "/erialad/majandusarvestus-1",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "11411": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "1688": "Munitsipaal"
+                    },
+                    "fieldSchoolContactEmail": "info@voco.ee",
+                    "fieldSchoolContactPhone": "7361866",
+                    "fieldSchoolLocation": {
+                        "8984": {
+                            "fieldAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                            "fieldCoordinates": {
+                                "name": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                                "lat": "58.3494",
+                                "lon": "26.714176",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "494": "Tartu linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://voco.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tartu Rakenduslik Kolledž",
+                    "created": "1538404224"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://khk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Majandusarvestus",
+            "created": "1537777077"
+        },
+        {
+            "nid": "8555",
+            "path": "/erialad/majutusteenindus-9",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "11411": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "1688": "Munitsipaal"
+                    },
+                    "fieldSchoolContactEmail": "info@voco.ee",
+                    "fieldSchoolContactPhone": "7361866",
+                    "fieldSchoolLocation": {
+                        "8984": {
+                            "fieldAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                            "fieldCoordinates": {
+                                "name": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                                "lat": "58.3494",
+                                "lon": "26.714176",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "494": "Tartu linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://voco.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tartu Rakenduslik Kolledž",
+                    "created": "1538404224"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "35",
+            "fieldSchoolAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://khk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Majutusteenindus",
+            "created": "1537777077"
+        },
+        {
+            "nid": "8556",
+            "path": "/erialad/autodiagnostik-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "90",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": null,
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "59",
+            "fieldSchoolAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.vigalattk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": null,
+            "uid": "1",
+            "title": "AUTODIAGNOSTIK",
+            "created": "1537777077"
+        },
+        {
+            "nid": "8561",
+            "path": "/erialad/hotelliteenindaja-7",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "60",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "11707": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@vkok.ee",
+                    "fieldSchoolContactPhone": "7668575",
+                    "fieldSchoolLocation": {
+                        "9280": {
+                            "fieldAddress": "Loode tn 3/1, Valga linn, Valga vald, Valga maakond",
+                            "fieldCoordinates": {
+                                "name": "Loode tn 3/1, Valga linn, Valga vald, Valga maakond",
+                                "lat": "57.789563",
+                                "lon": "26.035708",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "539": "Valga linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.vkok.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Valgamaa Kutseõppekeskus",
+                    "created": "1538404280"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "22",
+            "fieldSchoolAddress": "Loode tn 3, Valga linn, Valga vald, Valga maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://www.vkok.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Hotelliteenindaja",
+            "created": "1537777079"
+        },
+        {
+            "nid": "8562",
+            "path": "/erialad/sekret%C3%A4rit%C3%B6%C3%B6",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "11411": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "1688": "Munitsipaal"
+                    },
+                    "fieldSchoolContactEmail": "info@voco.ee",
+                    "fieldSchoolContactPhone": "7361866",
+                    "fieldSchoolLocation": {
+                        "8984": {
+                            "fieldAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                            "fieldCoordinates": {
+                                "name": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                                "lat": "58.3494",
+                                "lon": "26.714176",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "494": "Tartu linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://voco.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tartu Rakenduslik Kolledž",
+                    "created": "1538404224"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://khk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Sekretäritöö",
+            "created": "1537777079"
+        },
+        {
+            "nid": "8563",
+            "path": "/erialad/m%C3%BC%C3%BCja",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "11411": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "1688": "Munitsipaal"
+                    },
+                    "fieldSchoolContactEmail": "info@voco.ee",
+                    "fieldSchoolContactPhone": "7361866",
+                    "fieldSchoolLocation": {
+                        "8984": {
+                            "fieldAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                            "fieldCoordinates": {
+                                "name": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                                "lat": "58.3494",
+                                "lon": "26.714176",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "494": "Tartu linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://voco.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tartu Rakenduslik Kolledž",
+                    "created": "1538404224"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "38",
+            "fieldSchoolAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://khk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Müüja",
+            "created": "1537777079"
+        },
+        {
+            "nid": "8564",
+            "path": "/erialad/tisler-16",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "11411": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "1688": "Munitsipaal"
+                    },
+                    "fieldSchoolContactEmail": "info@voco.ee",
+                    "fieldSchoolContactPhone": "7361866",
+                    "fieldSchoolLocation": {
+                        "8984": {
+                            "fieldAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                            "fieldCoordinates": {
+                                "name": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                                "lat": "58.3494",
+                                "lon": "26.714176",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "494": "Tartu linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://voco.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tartu Rakenduslik Kolledž",
+                    "created": "1538404224"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "38",
+            "fieldSchoolAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://khk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Tisler",
+            "created": "1537777079"
+        },
+        {
+            "nid": "8565",
+            "path": "/erialad/tisler-17",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": null,
+            "fieldEducationalInstitution": {
+                "11411": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "1688": "Munitsipaal"
+                    },
+                    "fieldSchoolContactEmail": "info@voco.ee",
+                    "fieldSchoolContactPhone": "7361866",
+                    "fieldSchoolLocation": {
+                        "8984": {
+                            "fieldAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                            "fieldCoordinates": {
+                                "name": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+                                "lat": "58.3494",
+                                "lon": "26.714176",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "494": "Tartu linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://voco.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tartu Rakenduslik Kolledž",
+                    "created": "1538404224"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "38",
+            "fieldSchoolAddress": "Kopli tn 1, Tartu linn, Tartu linn, Tartu maakond",
+            "fieldSchoolSearchAddress": null,
+            "fieldSchoolWebsite": "http://khk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Tisler",
+            "created": "1537777079"
+        }
+    ],
+    "count": 3876,
+    "field_neurotolge_state": "translated_with_neurotolge"
+}

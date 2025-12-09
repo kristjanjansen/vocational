@@ -1,0 +1,1387 @@
+{
+    "entities": [
+        {
+            "nid": "37408694",
+            "path": "/erialad/ehitustehnoloogia-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "240",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "48",
+            "fieldEducationalInstitution": {
+                "9641": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "ehituskool@ehituskool.ee",
+                    "fieldSchoolContactPhone": "6519040",
+                    "fieldSchoolLocation": {
+                        "7219": {
+                            "fieldAddress": "Pärnu mnt 162/1, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Pärnu mnt 162/1, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.40398",
+                                "lon": "24.729784",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.ehituskool.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Ehituskool",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2568": "Ehitus ja tsiviilrajatised"
+            },
+            "fieldIscedfNarrow": {
+                "2565": "Arhitektuur ja ehitus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Pärnu mnt 162/1, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": "Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolWebsite": "http://www.ehituskool.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Ehitustehnoloogia",
+            "created": "1745968501"
+        },
+        {
+            "nid": "37408695",
+            "path": "/erialad/turismiteenused-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": "1755032400",
+            "fieldAdmissionEndDate": "1756155540",
+            "fieldAdmissionId": "18197",
+            "fieldAdmissionLink": "https://sais.ee/AdmissionSearch/View/18197",
+            "fieldAmount": "240",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "48",
+            "fieldEducationalInstitution": {
+                "11825": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "ewers@ewers.ee",
+                    "fieldSchoolContactPhone": "7850800",
+                    "fieldSchoolLocation": {
+                        "9398": {
+                            "fieldAddress": "Kooli tee 1, Väimela alevik, Võru vald, Võru maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tee 1, Väimela alevik, Võru vald, Võru maakond",
+                                "lat": "57.891173",
+                                "lon": "27.013394",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "590": "Väimela alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.ewers.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Võrumaa Haridus- ja Tehnoloogiakeskus",
+                    "created": "1538404301"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2638": "Majutamine ja toitlustamine"
+            },
+            "fieldIscedfNarrow": {
+                "2633": "Isikuteenindus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "25",
+            "fieldSchoolAddress": "Kooli tee 1, Väimela alevik, Võru vald, Võru maakond",
+            "fieldSchoolSearchAddress": "Väimela alevik, Võru vald, Võru maakond",
+            "fieldSchoolWebsite": "http://www.ewers.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Turismiteenused",
+            "created": "1745968501"
+        },
+        {
+            "nid": "37408696",
+            "path": "/erialad/ilu-ja-heaoluteenused-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "240",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "48",
+            "fieldEducationalInstitution": {
+                "11345": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@ivkhk.ee",
+                    "fieldSchoolContactPhone": "3320381",
+                    "fieldSchoolLocation": {
+                        "8918": {
+                            "fieldAddress": "Tallinna mnt 13, Sillamäe linn, Ida-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Tallinna mnt 13, Sillamäe linn, Ida-Viru maakond",
+                                "lat": "59.39098",
+                                "lon": "27.793492",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "485": "Sillamäe linn"
+                            },
+                            "paraType": "school_location"
+                        },
+                        "373035": {
+                            "fieldAddress": "Kutse tn 13, Jõhvi linn, Jõhvi vald, Ida-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Kutse tn 13, Jõhvi linn, Jõhvi vald, Ida-Viru maakond",
+                                "lat": "59.360033",
+                                "lon": "27.399148",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": null,
+                            "fieldSchoolLocation": null,
+                            "paraType": "school_location"
+                        },
+                        "373036": {
+                            "fieldAddress": "Kreenholmi tn 45, Narva linn, Ida-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Kreenholmi tn 45, Narva linn, Ida-Viru maakond",
+                                "lat": "59.360678",
+                                "lon": "28.188351",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": null,
+                            "fieldSchoolLocation": null,
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://kutsehariduskeskus.ee/",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Ida-Virumaa Kutsehariduskeskus",
+                    "created": "1538404211"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2636": "Juuksuritöö ja iluteenindus"
+            },
+            "fieldIscedfNarrow": {
+                "2633": "Isikuteenindus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": null,
+            "fieldSchoolAddress": "Tallinna mnt 13, Sillamäe linn, Ida-Viru maakond",
+            "fieldSchoolSearchAddress": "Sillamäe linn, Ida-Viru maakond",
+            "fieldSchoolWebsite": "https://kutsehariduskeskus.ee/",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Ilu- ja heaoluteenused",
+            "created": "1745968501"
+        },
+        {
+            "nid": "37408697",
+            "path": "/erialad/logistika-ja-laokorraldus-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "240",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "48",
+            "fieldEducationalInstitution": {
+                "11345": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@ivkhk.ee",
+                    "fieldSchoolContactPhone": "3320381",
+                    "fieldSchoolLocation": {
+                        "8918": {
+                            "fieldAddress": "Tallinna mnt 13, Sillamäe linn, Ida-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Tallinna mnt 13, Sillamäe linn, Ida-Viru maakond",
+                                "lat": "59.39098",
+                                "lon": "27.793492",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "485": "Sillamäe linn"
+                            },
+                            "paraType": "school_location"
+                        },
+                        "373035": {
+                            "fieldAddress": "Kutse tn 13, Jõhvi linn, Jõhvi vald, Ida-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Kutse tn 13, Jõhvi linn, Jõhvi vald, Ida-Viru maakond",
+                                "lat": "59.360033",
+                                "lon": "27.399148",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": null,
+                            "fieldSchoolLocation": null,
+                            "paraType": "school_location"
+                        },
+                        "373036": {
+                            "fieldAddress": "Kreenholmi tn 45, Narva linn, Ida-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Kreenholmi tn 45, Narva linn, Ida-Viru maakond",
+                                "lat": "59.360678",
+                                "lon": "28.188351",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": null,
+                            "fieldSchoolLocation": null,
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://kutsehariduskeskus.ee/",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Ida-Virumaa Kutsehariduskeskus",
+                    "created": "1538404211"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2661": "Transporditeenused"
+            },
+            "fieldIscedfNarrow": {
+                "2660": "Transporditeenused"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "28",
+            "fieldSchoolAddress": "Tallinna mnt 13, Sillamäe linn, Ida-Viru maakond",
+            "fieldSchoolSearchAddress": "Sillamäe linn, Ida-Viru maakond",
+            "fieldSchoolWebsite": "https://kutsehariduskeskus.ee/",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Logistika ja laokorraldus",
+            "created": "1745968501"
+        },
+        {
+            "nid": "37408698",
+            "path": "/erialad/info-ja-kommunikatsioonitehnoloogia-2",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "240",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "48",
+            "fieldEducationalInstitution": {
+                "9538": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@tthk.ee",
+                    "fieldSchoolContactPhone": "6542833",
+                    "fieldSchoolLocation": {
+                        "7117": {
+                            "fieldAddress": "Sõpruse pst 182, Kristiine linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Sõpruse pst 182, Kristiine linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.413143",
+                                "lon": "24.703968",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "72": "Kristiine linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.tthk.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Tööstushariduskeskus",
+                    "created": "1538403847"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2525": "Informatsiooni- ja kommunikatsioonitehnoloogiad"
+            },
+            "fieldIscedfDetailed": {
+                "2531": "Tarkvara ja rakenduste arendus ning analüüs"
+            },
+            "fieldIscedfNarrow": {
+                "2526": "Informatsiooni- ja kommunikatsioonitehnoloogiad"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Sõpruse pst 182, Kristiine linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": "Kristiine linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolWebsite": "http://www.tthk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Info- ja kommunikatsioonitehnoloogia",
+            "created": "1745968501"
+        },
+        {
+            "nid": "37408699",
+            "path": "/erialad/j%C3%A4tkusuutliku-ettev%C3%B5tluse-korraldus-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "240",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "48",
+            "fieldEducationalInstitution": {
+                "9251": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@tmk.edu.ee",
+                    "fieldSchoolContactPhone": "56281688",
+                    "fieldSchoolLocation": {
+                        "6831": {
+                            "fieldAddress": "A. H. Tammsaare tee 147, Mustamäe linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "A. H. Tammsaare tee 147, Mustamäe linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.409662",
+                                "lon": "24.67088",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "70": "Mustamäe linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.tmk.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Majanduskool",
+                    "created": "1538403795"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2463": "Ärindus, haldus ja õigus"
+            },
+            "fieldIscedfDetailed": {
+                "2477": "Tööoskused"
+            },
+            "fieldIscedfNarrow": {
+                "2464": "Ärindus ja haldus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "25",
+            "fieldSchoolAddress": "A. H. Tammsaare tee 147, Mustamäe linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": "Mustamäe linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolWebsite": "http://www.tmk.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "Jätkusuutliku ettevõtluse korraldus",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Jätkusuutliku ettevõtluse korraldus",
+            "created": "1745968501"
+        },
+        {
+            "nid": "37408700",
+            "path": "/erialad/ilu-ja-heaoluteenused-1",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "240",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "48",
+            "fieldEducationalInstitution": {
+                "9346": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@teeninduskool.ee",
+                    "fieldSchoolContactPhone": "6053102",
+                    "fieldSchoolLocation": {
+                        "6926": {
+                            "fieldAddress": "Majaka tn 2, Lasnamäe linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Majaka tn 2, Lasnamäe linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.429438",
+                                "lon": "24.785952",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "71": "Lasnamäe linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.teeninduskool.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Teeninduskool",
+                    "created": "1538403813"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2636": "Juuksuritöö ja iluteenindus"
+            },
+            "fieldIscedfNarrow": {
+                "2633": "Isikuteenindus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "25",
+            "fieldSchoolAddress": "Majaka tn 2, Lasnamäe linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": "Lasnamäe linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolWebsite": "http://www.teeninduskool.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "Ilu- ja heaoluteenused",
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Ilu- ja heaoluteenused",
+            "created": "1745968501"
+        },
+        {
+            "nid": "37408701",
+            "path": "/erialad/hooldust%C3%B6%C3%B6taja-17",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": "1743454800",
+            "fieldAdmissionEndDate": "1757537940",
+            "fieldAdmissionId": "18265",
+            "fieldAdmissionLink": "https://sais.ee/AdmissionSearch/View/18265",
+            "fieldAmount": "90",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "18",
+            "fieldEducationalInstitution": {
+                "10890": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "kool@jkhk.ee",
+                    "fieldSchoolContactPhone": "5253736 ",
+                    "fieldSchoolLocation": {
+                        "8465": {
+                            "fieldAddress": "Tallinna tn 46, Paide linn, Paide linn, Järva maakond",
+                            "fieldCoordinates": {
+                                "name": "Tallinna tn 46, Paide linn, Paide linn, Järva maakond",
+                                "lat": "58.891855",
+                                "lon": "25.567184",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "344": "Paide linn"
+                            },
+                            "paraType": "school_location"
+                        },
+                        "373039": {
+                            "fieldAddress": "Tehnikumi tn 4, Särevere alevik, Türi vald, Järva maakond",
+                            "fieldCoordinates": {
+                                "name": "Tehnikumi tn 4, Särevere alevik, Türi vald, Järva maakond",
+                                "lat": "58.782417",
+                                "lon": "25.432146",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": null,
+                            "fieldSchoolLocation": null,
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://jkhk.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Järvamaa Kutsehariduskeskus",
+                    "created": "1538404121"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2599": "Tervis ja heaolu"
+            },
+            "fieldIscedfDetailed": {
+                "2622": "Sotsiaaltöö ja nõustamine"
+            },
+            "fieldIscedfNarrow": {
+                "2617": "Heaolu"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": {
+                "3225": "põhiharidus (210)"
+            },
+            "fieldPracticalTrainingAmount": "22",
+            "fieldSchoolAddress": "Tallinna tn 46, Paide linn, Paide linn, Järva maakond",
+            "fieldSchoolSearchAddress": "Paide linn, Paide linn, Järva maakond",
+            "fieldSchoolWebsite": "http://jkhk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Hooldustöötaja",
+            "created": "1745968501"
+        },
+        {
+            "nid": "37408702",
+            "path": "/erialad/hooldust%C3%B6%C3%B6taja-18",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "90",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "18",
+            "fieldEducationalInstitution": {
+                "9537": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus",
+                        "2365": "Kõrgkool",
+                        "2366": "Rakenduskõrgkool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@ttk.ee",
+                    "fieldSchoolContactPhone": "6711701",
+                    "fieldSchoolLocation": {
+                        "7116": {
+                            "fieldAddress": "Kännu tn 67, Kristiine linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Kännu tn 67, Kristiine linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.409335",
+                                "lon": "24.709314",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "72": "Kristiine linnaosa"
+                            },
+                            "paraType": "school_location"
+                        },
+                        "372998": {
+                            "fieldAddress": "Lehe tn 12, Kukruse linnaosa, Kohtla-Järve linn, Ida-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Lehe tn 12, Kukruse linnaosa, Kohtla-Järve linn, Ida-Viru maakond",
+                                "lat": "59.397415",
+                                "lon": "27.347297",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": null,
+                            "fieldSchoolLocation": null,
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.ttk.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Tervishoiu Kõrgkool",
+                    "created": "1538403847"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2599": "Tervis ja heaolu"
+            },
+            "fieldIscedfDetailed": {
+                "2622": "Sotsiaaltöö ja nõustamine"
+            },
+            "fieldIscedfNarrow": {
+                "2617": "Heaolu"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "22",
+            "fieldSchoolAddress": "Kännu tn 67, Kristiine linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": "Kristiine linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolWebsite": "http://www.ttk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Hooldustöötaja",
+            "created": "1745968501"
+        },
+        {
+            "nid": "37408703",
+            "path": "/erialad/bio-ja-keemiat%C3%B6%C3%B6stuse-tehnoloogia",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "240",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "48",
+            "fieldEducationalInstitution": {
+                "11345": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@ivkhk.ee",
+                    "fieldSchoolContactPhone": "3320381",
+                    "fieldSchoolLocation": {
+                        "8918": {
+                            "fieldAddress": "Tallinna mnt 13, Sillamäe linn, Ida-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Tallinna mnt 13, Sillamäe linn, Ida-Viru maakond",
+                                "lat": "59.39098",
+                                "lon": "27.793492",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "485": "Sillamäe linn"
+                            },
+                            "paraType": "school_location"
+                        },
+                        "373035": {
+                            "fieldAddress": "Kutse tn 13, Jõhvi linn, Jõhvi vald, Ida-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Kutse tn 13, Jõhvi linn, Jõhvi vald, Ida-Viru maakond",
+                                "lat": "59.360033",
+                                "lon": "27.399148",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": null,
+                            "fieldSchoolLocation": null,
+                            "paraType": "school_location"
+                        },
+                        "373036": {
+                            "fieldAddress": "Kreenholmi tn 45, Narva linn, Ida-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Kreenholmi tn 45, Narva linn, Ida-Viru maakond",
+                                "lat": "59.360678",
+                                "lon": "28.188351",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": null,
+                            "fieldSchoolLocation": null,
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://kutsehariduskeskus.ee/",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Ida-Virumaa Kutsehariduskeskus",
+                    "created": "1538404211"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2540": "Keemiatehnoloogia ja -protsessid"
+            },
+            "fieldIscedfNarrow": {
+                "2539": "Tehnikaalad"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Tallinna mnt 13, Sillamäe linn, Ida-Viru maakond",
+            "fieldSchoolSearchAddress": "Sillamäe linn, Ida-Viru maakond",
+            "fieldSchoolWebsite": "https://kutsehariduskeskus.ee/",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Bio- ja keemiatööstuse tehnoloogia",
+            "created": "1745968501"
+        },
+        {
+            "nid": "37408704",
+            "path": "/erialad/info-ja-kommunikatsioonitehnoloogia-3",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "240",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "48",
+            "fieldEducationalInstitution": {
+                "11345": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@ivkhk.ee",
+                    "fieldSchoolContactPhone": "3320381",
+                    "fieldSchoolLocation": {
+                        "8918": {
+                            "fieldAddress": "Tallinna mnt 13, Sillamäe linn, Ida-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Tallinna mnt 13, Sillamäe linn, Ida-Viru maakond",
+                                "lat": "59.39098",
+                                "lon": "27.793492",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "485": "Sillamäe linn"
+                            },
+                            "paraType": "school_location"
+                        },
+                        "373035": {
+                            "fieldAddress": "Kutse tn 13, Jõhvi linn, Jõhvi vald, Ida-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Kutse tn 13, Jõhvi linn, Jõhvi vald, Ida-Viru maakond",
+                                "lat": "59.360033",
+                                "lon": "27.399148",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": null,
+                            "fieldSchoolLocation": null,
+                            "paraType": "school_location"
+                        },
+                        "373036": {
+                            "fieldAddress": "Kreenholmi tn 45, Narva linn, Ida-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Kreenholmi tn 45, Narva linn, Ida-Viru maakond",
+                                "lat": "59.360678",
+                                "lon": "28.188351",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": null,
+                            "fieldSchoolLocation": null,
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://kutsehariduskeskus.ee/",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Ida-Virumaa Kutsehariduskeskus",
+                    "created": "1538404211"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2525": "Informatsiooni- ja kommunikatsioonitehnoloogiad"
+            },
+            "fieldIscedfDetailed": {
+                "2529": "Andmebaaside ja võrgu disain ning haldus"
+            },
+            "fieldIscedfNarrow": {
+                "2526": "Informatsiooni- ja kommunikatsioonitehnoloogiad"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Tallinna mnt 13, Sillamäe linn, Ida-Viru maakond",
+            "fieldSchoolSearchAddress": "Sillamäe linn, Ida-Viru maakond",
+            "fieldSchoolWebsite": "https://kutsehariduskeskus.ee/",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Info- ja kommunikatsioonitehnoloogia",
+            "created": "1745968501"
+        },
+        {
+            "nid": "37408705",
+            "path": "/erialad/toiduainete-tehnoloogia-3",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "240",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "48",
+            "fieldEducationalInstitution": {
+                "11345": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@ivkhk.ee",
+                    "fieldSchoolContactPhone": "3320381",
+                    "fieldSchoolLocation": {
+                        "8918": {
+                            "fieldAddress": "Tallinna mnt 13, Sillamäe linn, Ida-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Tallinna mnt 13, Sillamäe linn, Ida-Viru maakond",
+                                "lat": "59.39098",
+                                "lon": "27.793492",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "485": "Sillamäe linn"
+                            },
+                            "paraType": "school_location"
+                        },
+                        "373035": {
+                            "fieldAddress": "Kutse tn 13, Jõhvi linn, Jõhvi vald, Ida-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Kutse tn 13, Jõhvi linn, Jõhvi vald, Ida-Viru maakond",
+                                "lat": "59.360033",
+                                "lon": "27.399148",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": null,
+                            "fieldSchoolLocation": null,
+                            "paraType": "school_location"
+                        },
+                        "373036": {
+                            "fieldAddress": "Kreenholmi tn 45, Narva linn, Ida-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Kreenholmi tn 45, Narva linn, Ida-Viru maakond",
+                                "lat": "59.360678",
+                                "lon": "28.188351",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": null,
+                            "fieldSchoolLocation": null,
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://kutsehariduskeskus.ee/",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Ida-Virumaa Kutsehariduskeskus",
+                    "created": "1538404211"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2555": "Toiduainete töötlemine"
+            },
+            "fieldIscedfNarrow": {
+                "2554": "Tootmine ja töötlemine"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "25",
+            "fieldSchoolAddress": "Tallinna mnt 13, Sillamäe linn, Ida-Viru maakond",
+            "fieldSchoolSearchAddress": "Sillamäe linn, Ida-Viru maakond",
+            "fieldSchoolWebsite": "https://kutsehariduskeskus.ee/",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Toiduainete tehnoloogia",
+            "created": "1745968501"
+        },
+        {
+            "nid": "37408706",
+            "path": "/erialad/t%C3%B6%C3%B6stuse-digitehnoloogia",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "240",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "48",
+            "fieldEducationalInstitution": {
+                "9538": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@tthk.ee",
+                    "fieldSchoolContactPhone": "6542833",
+                    "fieldSchoolLocation": {
+                        "7117": {
+                            "fieldAddress": "Sõpruse pst 182, Kristiine linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Sõpruse pst 182, Kristiine linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.413143",
+                                "lon": "24.703968",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "72": "Kristiine linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.tthk.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Tööstushariduskeskus",
+                    "created": "1538403847"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2546": "Elektroonika ja automaatika"
+            },
+            "fieldIscedfNarrow": {
+                "2539": "Tehnikaalad"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Sõpruse pst 182, Kristiine linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": "Kristiine linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolWebsite": "http://www.tthk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": null,
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Tööstuse digitehnoloogia",
+            "created": "1745968501"
+        }
+    ],
+    "count": 3876,
+    "field_neurotolge_state": "translated_with_neurotolge"
+}

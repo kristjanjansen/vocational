@@ -1,0 +1,1486 @@
+{
+    "entities": [
+        {
+            "nid": "37457195",
+            "path": "/erialad/k%C3%B6%C3%B6giabiline-8",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "24",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2638": "Majutamine ja toitlustamine"
+            },
+            "fieldIscedfNarrow": {
+                "2633": "Isikuteenindus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "20",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2372": "Põhihariduse nõudeta kutseõpe"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Köögiabiline",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37457196",
+            "path": "/erialad/maaler-22",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "60",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "12",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2568": "Ehitus ja tsiviilrajatised"
+            },
+            "fieldIscedfNarrow": {
+                "2565": "Arhitektuur ja ehitus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "15",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Maaler",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37457197",
+            "path": "/erialad/m%C3%B6%C3%B6blirestauraator-11",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "24",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2557": "Materjalide töötlemine (klaas, paber, plast ja puit)"
+            },
+            "fieldIscedfNarrow": {
+                "2554": "Tootmine ja töötlemine"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Mööblirestauraator",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37457198",
+            "path": "/erialad/puhastusteenindaja-28",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "60",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "12",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2634": "Koduteenindus"
+            },
+            "fieldIscedfNarrow": {
+                "2633": "Isikuteenindus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "17",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2372": "Põhihariduse nõudeta kutseõpe"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Puhastusteenindaja",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37457199",
+            "path": "/erialad/puhastusteenindaja-abiline-20",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "24",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2634": "Koduteenindus"
+            },
+            "fieldIscedfNarrow": {
+                "2633": "Isikuteenindus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "15",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2372": "Põhihariduse nõudeta kutseõpe"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Puhastusteenindaja abiline",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37457200",
+            "path": "/erialad/puuk%C3%A4sit%C3%B6%C3%B6-3",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "24",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2402": "Humanitaaria ja kunstid"
+            },
+            "fieldIscedfDetailed": {
+                "2410": "Käsitöö"
+            },
+            "fieldIscedfNarrow": {
+                "2403": "Kunstid"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Puukäsitöö",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37457201",
+            "path": "/erialad/s%C3%B5idukite-pindade-hooldaja-ja-rehvitehnik-10",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "60",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "12",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2550": "Mootorliikurid, laevandus ja lennundustehnika"
+            },
+            "fieldIscedfNarrow": {
+                "2539": "Tehnikaalad"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "15",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2372": "Põhihariduse nõudeta kutseõpe"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Sõidukite pindade hooldaja ja rehvitehnik",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37457202",
+            "path": "/erialad/ehitusviimistlus-34",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "180",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "36",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2568": "Ehitus ja tsiviilrajatised"
+            },
+            "fieldIscedfNarrow": {
+                "2565": "Arhitektuur ja ehitus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "28",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2012": "Kutsekeskharidusõpe",
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Ehitusviimistlus",
+            "created": "1752276300"
+        },
+        {
+            "nid": "37465768",
+            "path": "/erialad/erakorralise-meditsiini-tehnik-3",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "60",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "12",
+            "fieldEducationalInstitution": {
+                "9537": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus",
+                        "2365": "Kõrgkool",
+                        "2366": "Rakenduskõrgkool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@ttk.ee",
+                    "fieldSchoolContactPhone": "6711701",
+                    "fieldSchoolLocation": {
+                        "7116": {
+                            "fieldAddress": "Kännu tn 67, Kristiine linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Kännu tn 67, Kristiine linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.409335",
+                                "lon": "24.709314",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "72": "Kristiine linnaosa"
+                            },
+                            "paraType": "school_location"
+                        },
+                        "372998": {
+                            "fieldAddress": "Lehe tn 12, Kukruse linnaosa, Kohtla-Järve linn, Ida-Viru maakond",
+                            "fieldCoordinates": {
+                                "name": "Lehe tn 12, Kukruse linnaosa, Kohtla-Järve linn, Ida-Viru maakond",
+                                "lat": "59.397415",
+                                "lon": "27.347297",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": null,
+                            "fieldSchoolLocation": null,
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.ttk.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Tervishoiu Kõrgkool",
+                    "created": "1538403847"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2599": "Tervis ja heaolu"
+            },
+            "fieldIscedfDetailed": {
+                "2607": "Meditsiinidiagnostika- ja ravitehnoloogia"
+            },
+            "fieldIscedfNarrow": {
+                "2600": "Tervis"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "18",
+            "fieldSchoolAddress": "Kännu tn 67, Kristiine linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": "Kristiine linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolWebsite": "http://www.ttk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": null,
+            "fieldStudyProgrammeLevel": {
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Erakorralise meditsiini tehnik",
+            "created": "1764029940"
+        },
+        {
+            "nid": "12963",
+            "path": "/erialad/puuk%C3%A4sit%C3%B6%C3%B6-1",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": "1724360400",
+            "fieldAdmissionEndDate": "1725051540",
+            "fieldAdmissionId": "16046",
+            "fieldAdmissionLink": "https://sais.ee/AdmissionSearch/View/16046",
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "24",
+            "fieldEducationalInstitution": {
+                "10744": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "kool@vigalattk.ee",
+                    "fieldSchoolContactPhone": "5052766",
+                    "fieldSchoolLocation": {
+                        "8319": {
+                            "fieldAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+                                "lat": "58.779529",
+                                "lon": "24.24935",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "319": "Vana-Vigala küla"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.vigalattk.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Vana-Vigala Tehnika- ja Teeninduskool",
+                    "created": "1538404084"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2402": "Humanitaaria ja kunstid"
+            },
+            "fieldIscedfDetailed": {
+                "2410": "Käsitöö"
+            },
+            "fieldIscedfNarrow": {
+                "2403": "Kunstid"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": {
+                "3225": "põhiharidus (210)"
+            },
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.vigalattk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Puukäsitöö",
+            "created": "1556319780"
+        },
+        {
+            "nid": "13013",
+            "path": "/erialad/keraamik-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "24",
+            "fieldEducationalInstitution": {
+                "10744": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "kool@vigalattk.ee",
+                    "fieldSchoolContactPhone": "5052766",
+                    "fieldSchoolLocation": {
+                        "8319": {
+                            "fieldAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+                                "lat": "58.779529",
+                                "lon": "24.24935",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "319": "Vana-Vigala küla"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.vigalattk.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Vana-Vigala Tehnika- ja Teeninduskool",
+                    "created": "1538404084"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2402": "Humanitaaria ja kunstid"
+            },
+            "fieldIscedfDetailed": {
+                "2410": "Käsitöö"
+            },
+            "fieldIscedfNarrow": {
+                "2403": "Kunstid"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "20",
+            "fieldSchoolAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.vigalattk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Keraamik",
+            "created": "1557442980"
+        },
+        {
+            "nid": "13282",
+            "path": "/erialad/abikelner-7",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "30",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "6",
+            "fieldEducationalInstitution": {
+                "10744": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "kool@vigalattk.ee",
+                    "fieldSchoolContactPhone": "5052766",
+                    "fieldSchoolLocation": {
+                        "8319": {
+                            "fieldAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+                                "lat": "58.779529",
+                                "lon": "24.24935",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "319": "Vana-Vigala küla"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.vigalattk.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Vana-Vigala Tehnika- ja Teeninduskool",
+                    "created": "1538404084"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2638": "Majutamine ja toitlustamine"
+            },
+            "fieldIscedfNarrow": {
+                "2633": "Isikuteenindus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "12",
+            "fieldSchoolAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.vigalattk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2372": "Põhihariduse nõudeta kutseõpe"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Abikelner",
+            "created": "1569625380"
+        },
+        {
+            "nid": "13302",
+            "path": "/erialad/s%C3%B5idukite-pindade-hooldaja-ja-rehvitehnik-6",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "60",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "12",
+            "fieldEducationalInstitution": {
+                "10744": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "kool@vigalattk.ee",
+                    "fieldSchoolContactPhone": "5052766",
+                    "fieldSchoolLocation": {
+                        "8319": {
+                            "fieldAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+                                "lat": "58.779529",
+                                "lon": "24.24935",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "319": "Vana-Vigala küla"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.vigalattk.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Vana-Vigala Tehnika- ja Teeninduskool",
+                    "created": "1538404084"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2550": "Mootorliikurid, laevandus ja lennundustehnika"
+            },
+            "fieldIscedfNarrow": {
+                "2539": "Tehnikaalad"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "15",
+            "fieldSchoolAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.vigalattk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2372": "Põhihariduse nõudeta kutseõpe"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Sõidukite pindade hooldaja ja rehvitehnik",
+            "created": "1569625380"
+        },
+        {
+            "nid": "13307",
+            "path": "/erialad/puhastusteenindaja-abiline-13",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "24",
+            "fieldEducationalInstitution": {
+                "10744": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "kool@vigalattk.ee",
+                    "fieldSchoolContactPhone": "5052766",
+                    "fieldSchoolLocation": {
+                        "8319": {
+                            "fieldAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+                                "lat": "58.779529",
+                                "lon": "24.24935",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "319": "Vana-Vigala küla"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.vigalattk.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Vana-Vigala Tehnika- ja Teeninduskool",
+                    "created": "1538404084"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2634": "Koduteenindus"
+            },
+            "fieldIscedfNarrow": {
+                "2633": "Isikuteenindus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "27",
+            "fieldSchoolAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.vigalattk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2372": "Põhihariduse nõudeta kutseõpe"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Puhastusteenindaja abiline",
+            "created": "1569625380"
+        },
+        {
+            "nid": "13318",
+            "path": "/erialad/k%C3%B6%C3%B6giabiline-2",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "24",
+            "fieldEducationalInstitution": {
+                "10744": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "kool@vigalattk.ee",
+                    "fieldSchoolContactPhone": "5052766",
+                    "fieldSchoolLocation": {
+                        "8319": {
+                            "fieldAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+                                "lat": "58.779529",
+                                "lon": "24.24935",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "319": "Vana-Vigala küla"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.vigalattk.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Vana-Vigala Tehnika- ja Teeninduskool",
+                    "created": "1538404084"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2638": "Majutamine ja toitlustamine"
+            },
+            "fieldIscedfNarrow": {
+                "2633": "Isikuteenindus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "30",
+            "fieldSchoolAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.vigalattk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2372": "Põhihariduse nõudeta kutseõpe"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Köögiabiline",
+            "created": "1569625440"
+        },
+        {
+            "nid": "13350",
+            "path": "/erialad/pottsepp-sell-14",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "30",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "6",
+            "fieldEducationalInstitution": {
+                "10744": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "kool@vigalattk.ee",
+                    "fieldSchoolContactPhone": "5052766",
+                    "fieldSchoolLocation": {
+                        "8319": {
+                            "fieldAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+                                "lat": "58.779529",
+                                "lon": "24.24935",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "319": "Vana-Vigala küla"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.vigalattk.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Vana-Vigala Tehnika- ja Teeninduskool",
+                    "created": "1538404084"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2568": "Ehitus ja tsiviilrajatised"
+            },
+            "fieldIscedfNarrow": {
+                "2565": "Arhitektuur ja ehitus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "8",
+            "fieldSchoolAddress": "Hariduse tn 2, Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Vana-Vigala küla, Märjamaa vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.vigalattk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2372": "Põhihariduse nõudeta kutseõpe"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Pottsepp-sell",
+            "created": "1569625440"
+        }
+    ],
+    "count": 3876,
+    "field_neurotolge_state": "translated_with_neurotolge"
+}

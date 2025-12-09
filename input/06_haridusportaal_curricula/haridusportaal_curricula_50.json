@@ -1,0 +1,1181 @@
+{
+    "entities": [
+        {
+            "nid": "8240",
+            "path": "/erialad/siset%C3%B6%C3%B6de-elektrik-5",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": "1763157600",
+            "fieldAdmissionEndDate": "1769896740",
+            "fieldAdmissionId": "18428",
+            "fieldAdmissionLink": "https://sais.ee/AdmissionSearch/View/18428",
+            "fieldAmount": "120",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "24",
+            "fieldEducationalInstitution": {
+                "11075": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "1687": "Eraomand"
+                    },
+                    "fieldSchoolContactEmail": "dts@saksatk.ee",
+                    "fieldSchoolContactPhone": "55314236",
+                    "fieldSchoolLocation": {
+                        "8650": {
+                            "fieldAddress": "Jalaka tn 8, Pärnu linn, Pärnu linn, Pärnu maakond",
+                            "fieldCoordinates": {
+                                "name": "Jalaka tn 8, Pärnu linn, Pärnu linn, Pärnu maakond",
+                                "lat": "58.384421",
+                                "lon": "24.509745",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "399": "Pärnu linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.saksatk.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Pärnu Saksa Tehnoloogiakool",
+                    "created": "1538404159"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2544": "Elektrienergia ja energeetika"
+            },
+            "fieldIscedfNarrow": {
+                "2539": "Tehnikaalad"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": {
+                "3225": "põhiharidus (210)"
+            },
+            "fieldPracticalTrainingAmount": "81",
+            "fieldSchoolAddress": "Jalaka tn 8, Pärnu linn, Pärnu linn, Pärnu maakond",
+            "fieldSchoolSearchAddress": "Pärnu linn, Pärnu linn, Pärnu maakond",
+            "fieldSchoolWebsite": "http://www.saksatk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Sisetööde elektrik",
+            "created": "1537777054"
+        },
+        {
+            "nid": "11973",
+            "path": "/erialad/toitlustuskorraldus-5",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": "1764540000",
+            "fieldAdmissionEndDate": "1770587940",
+            "fieldAdmissionId": "18438",
+            "fieldAdmissionLink": "https://sais.ee/AdmissionSearch/View/18438",
+            "fieldAmount": "60",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "12",
+            "fieldEducationalInstitution": {
+                "10380": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "kool@hkhk.edu.ee",
+                    "fieldSchoolContactPhone": "6661740",
+                    "fieldSchoolLocation": {
+                        "7955": {
+                            "fieldAddress": "Ehitajate tee 3, Uuemõisa alevik, Haapsalu linn, Lääne maakond",
+                            "fieldCoordinates": {
+                                "name": "Ehitajate tee 3, Uuemõisa alevik, Haapsalu linn, Lääne maakond",
+                                "lat": "58.939913",
+                                "lon": "23.586568",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "148": "Uuemõisa alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.hkhk.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Haapsalu Kutsehariduskeskus",
+                    "created": "1538403998"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2638": "Majutamine ja toitlustamine"
+            },
+            "fieldIscedfNarrow": {
+                "2633": "Isikuteenindus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": {
+                "3226": "üldkeskharidus (310)"
+            },
+            "fieldPracticalTrainingAmount": "20",
+            "fieldSchoolAddress": "Ehitajate tee 3, Uuemõisa alevik, Haapsalu linn, Lääne maakond",
+            "fieldSchoolSearchAddress": "Uuemõisa alevik, Haapsalu linn, Lääne maakond",
+            "fieldSchoolWebsite": "http://www.hkhk.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "suurköögitöö, restoranitöö",
+            "fieldStudyProgrammeLevel": {
+                "2013": "Kutseõpe keskhariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Toitlustuskorraldus",
+            "created": "1546000800"
+        },
+        {
+            "nid": "13784",
+            "path": "/erialad/puittoodete-tehnoloog-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": "1764540000",
+            "fieldAdmissionEndDate": "1770587940",
+            "fieldAdmissionId": "18440",
+            "fieldAdmissionLink": "https://sais.ee/AdmissionSearch/View/18440",
+            "fieldAmount": "60",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "12",
+            "fieldEducationalInstitution": {
+                "10380": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "kool@hkhk.edu.ee",
+                    "fieldSchoolContactPhone": "6661740",
+                    "fieldSchoolLocation": {
+                        "7955": {
+                            "fieldAddress": "Ehitajate tee 3, Uuemõisa alevik, Haapsalu linn, Lääne maakond",
+                            "fieldCoordinates": {
+                                "name": "Ehitajate tee 3, Uuemõisa alevik, Haapsalu linn, Lääne maakond",
+                                "lat": "58.939913",
+                                "lon": "23.586568",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "148": "Uuemõisa alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.hkhk.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Haapsalu Kutsehariduskeskus",
+                    "created": "1538403998"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2557": "Materjalide töötlemine (klaas, paber, plast ja puit)"
+            },
+            "fieldIscedfNarrow": {
+                "2554": "Tootmine ja töötlemine"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": {
+                "3226": "üldkeskharidus (310)"
+            },
+            "fieldPracticalTrainingAmount": "15",
+            "fieldSchoolAddress": "Ehitajate tee 3, Uuemõisa alevik, Haapsalu linn, Lääne maakond",
+            "fieldSchoolSearchAddress": "Uuemõisa alevik, Haapsalu linn, Lääne maakond",
+            "fieldSchoolWebsite": "http://www.hkhk.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2013": "Kutseõpe keskhariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Puittoodete tehnoloog",
+            "created": "1580515620"
+        },
+        {
+            "nid": "16152",
+            "path": "/erialad/puidut%C3%B6%C3%B6tleja-2",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": "1764540000",
+            "fieldAdmissionEndDate": "1770587940",
+            "fieldAdmissionId": "18439",
+            "fieldAdmissionLink": "https://sais.ee/AdmissionSearch/View/18439",
+            "fieldAmount": "90",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "18",
+            "fieldEducationalInstitution": {
+                "10380": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "kool@hkhk.edu.ee",
+                    "fieldSchoolContactPhone": "6661740",
+                    "fieldSchoolLocation": {
+                        "7955": {
+                            "fieldAddress": "Ehitajate tee 3, Uuemõisa alevik, Haapsalu linn, Lääne maakond",
+                            "fieldCoordinates": {
+                                "name": "Ehitajate tee 3, Uuemõisa alevik, Haapsalu linn, Lääne maakond",
+                                "lat": "58.939913",
+                                "lon": "23.586568",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "148": "Uuemõisa alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.hkhk.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Haapsalu Kutsehariduskeskus",
+                    "created": "1538403998"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2557": "Materjalide töötlemine (klaas, paber, plast ja puit)"
+            },
+            "fieldIscedfNarrow": {
+                "2554": "Tootmine ja töötlemine"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": {
+                "3228": "määramata"
+            },
+            "fieldPracticalTrainingAmount": "23",
+            "fieldSchoolAddress": "Ehitajate tee 3, Uuemõisa alevik, Haapsalu linn, Lääne maakond",
+            "fieldSchoolSearchAddress": "Uuemõisa alevik, Haapsalu linn, Lääne maakond",
+            "fieldSchoolWebsite": "http://www.hkhk.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2372": "Põhihariduse nõudeta kutseõpe"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Puidutöötleja",
+            "created": "1649891280"
+        },
+        {
+            "nid": "37394513",
+            "path": "/erialad/kokk-65",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": "1764540000",
+            "fieldAdmissionEndDate": "1770587940",
+            "fieldAdmissionId": "18437",
+            "fieldAdmissionLink": "https://sais.ee/AdmissionSearch/View/18437",
+            "fieldAmount": "60",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "12",
+            "fieldEducationalInstitution": {
+                "10380": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "kool@hkhk.edu.ee",
+                    "fieldSchoolContactPhone": "6661740",
+                    "fieldSchoolLocation": {
+                        "7955": {
+                            "fieldAddress": "Ehitajate tee 3, Uuemõisa alevik, Haapsalu linn, Lääne maakond",
+                            "fieldCoordinates": {
+                                "name": "Ehitajate tee 3, Uuemõisa alevik, Haapsalu linn, Lääne maakond",
+                                "lat": "58.939913",
+                                "lon": "23.586568",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "148": "Uuemõisa alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.hkhk.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Haapsalu Kutsehariduskeskus",
+                    "created": "1538403998"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2638": "Majutamine ja toitlustamine"
+            },
+            "fieldIscedfNarrow": {
+                "2633": "Isikuteenindus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": {
+                "3225": "põhiharidus (210)"
+            },
+            "fieldPracticalTrainingAmount": "10",
+            "fieldSchoolAddress": "Ehitajate tee 3, Uuemõisa alevik, Haapsalu linn, Lääne maakond",
+            "fieldSchoolSearchAddress": "Uuemõisa alevik, Haapsalu linn, Lääne maakond",
+            "fieldSchoolWebsite": "http://www.hkhk.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Kokk",
+            "created": "1717629001"
+        },
+        {
+            "nid": "12684",
+            "path": "/erialad/s%C3%B5idukite-kere-ja-v%C3%A4rvit%C3%B6%C3%B6de-meister-1",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": "1765144800",
+            "fieldAdmissionEndDate": "1771881900",
+            "fieldAdmissionId": "18448",
+            "fieldAdmissionLink": "https://sais.ee/AdmissionSearch/View/18448",
+            "fieldAmount": "60",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "12",
+            "fieldEducationalInstitution": {
+                "9538": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@tthk.ee",
+                    "fieldSchoolContactPhone": "6542833",
+                    "fieldSchoolLocation": {
+                        "7117": {
+                            "fieldAddress": "Sõpruse pst 182, Kristiine linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Sõpruse pst 182, Kristiine linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.413143",
+                                "lon": "24.703968",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "72": "Kristiine linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.tthk.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Tööstushariduskeskus",
+                    "created": "1538403847"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2550": "Mootorliikurid, laevandus ja lennundustehnika"
+            },
+            "fieldIscedfNarrow": {
+                "2539": "Tehnikaalad"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": {
+                "3226": "üldkeskharidus (310)"
+            },
+            "fieldPracticalTrainingAmount": "15",
+            "fieldSchoolAddress": "Sõpruse pst 182, Kristiine linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": "Kristiine linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolWebsite": "http://www.tthk.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "Sõidukite kere ja värvitööde meister",
+            "fieldStudyProgrammeLevel": {
+                "2013": "Kutseõpe keskhariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Sõidukite kere ja värvitööde meister",
+            "created": "1552435380"
+        },
+        {
+            "nid": "16706",
+            "path": "/erialad/kutsevaliku-%C3%B5ppekava-21",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": "1747861200",
+            "fieldAdmissionEndDate": "1772402340",
+            "fieldAdmissionId": "18449",
+            "fieldAdmissionLink": "https://sais.ee/AdmissionSearch/View/18449",
+            "fieldAmount": "30",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "6",
+            "fieldEducationalInstitution": {
+                "9641": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "ehituskool@ehituskool.ee",
+                    "fieldSchoolContactPhone": "6519040",
+                    "fieldSchoolLocation": {
+                        "7219": {
+                            "fieldAddress": "Pärnu mnt 162/1, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Pärnu mnt 162/1, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.40398",
+                                "lon": "24.729784",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.ehituskool.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Ehituskool",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": null,
+            "fieldIscedfDetailed": null,
+            "fieldIscedfNarrow": null,
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": {
+                "3228": "määramata"
+            },
+            "fieldPracticalTrainingAmount": "21",
+            "fieldSchoolAddress": "Pärnu mnt 162/1, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": "Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolWebsite": "http://www.ehituskool.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2372": "Põhihariduse nõudeta kutseõpe"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Kutsevaliku õppekava",
+            "created": "1654729680"
+        },
+        {
+            "nid": "11962",
+            "path": "/erialad/teleoperaator-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "60",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "12",
+            "fieldEducationalInstitution": {
+                "9640": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@tptlive.ee",
+                    "fieldSchoolContactPhone": "6103601",
+                    "fieldSchoolLocation": {
+                        "7218": {
+                            "fieldAddress": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.426876",
+                                "lon": "24.743416",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "73": "Kesklinna linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.tptlive.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Polütehnikum",
+                    "created": "1538403865"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2402": "Humanitaaria ja kunstid"
+            },
+            "fieldIscedfDetailed": {
+                "2404": "Audiovisuaalsed tehnikad ja meedia tootmine"
+            },
+            "fieldIscedfNarrow": {
+                "2403": "Kunstid"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "17",
+            "fieldSchoolAddress": "Pärnu mnt 57, Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": "Kesklinna linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolWebsite": "http://www.tptlive.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2373": "Kutseõpe põhihariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Teleoperaator",
+            "created": "1546000560"
+        },
+        {
+            "nid": "11972",
+            "path": "/erialad/magustoidukokk",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": "1759870800",
+            "fieldAdmissionEndDate": "1762120740",
+            "fieldAdmissionId": "18382",
+            "fieldAdmissionLink": "https://sais.ee/AdmissionSearch/View/18382",
+            "fieldAmount": "30",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "6",
+            "fieldEducationalInstitution": {
+                "9346": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "info@teeninduskool.ee",
+                    "fieldSchoolContactPhone": "6053102",
+                    "fieldSchoolLocation": {
+                        "6926": {
+                            "fieldAddress": "Majaka tn 2, Lasnamäe linnaosa, Tallinn, Harju maakond",
+                            "fieldCoordinates": {
+                                "name": "Majaka tn 2, Lasnamäe linnaosa, Tallinn, Harju maakond",
+                                "lat": "59.429438",
+                                "lon": "24.785952",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "71": "Lasnamäe linnaosa"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.teeninduskool.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Tallinna Teeninduskool",
+                    "created": "1538403813"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2632": "Teenindus"
+            },
+            "fieldIscedfDetailed": {
+                "2638": "Majutamine ja toitlustamine"
+            },
+            "fieldIscedfNarrow": {
+                "2633": "Isikuteenindus"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": {
+                "3226": "üldkeskharidus (310)"
+            },
+            "fieldPracticalTrainingAmount": "7",
+            "fieldSchoolAddress": "Majaka tn 2, Lasnamäe linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolSearchAddress": "Lasnamäe linnaosa, Tallinn, Harju maakond",
+            "fieldSchoolWebsite": "http://www.teeninduskool.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2013": "Kutseõpe keskhariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel",
+                "1691": "vene keel"
+            },
+            "uid": "1",
+            "title": "Magustoidukokk",
+            "created": "1546000800"
+        },
+        {
+            "nid": "12751",
+            "path": "/erialad/it-turvaspetsialist",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "60",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "12",
+            "fieldEducationalInstitution": {
+                "10570": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "rako@rako.edu.ee",
+                    "fieldSchoolContactPhone": "4875246",
+                    "fieldSchoolLocation": {
+                        "8145": {
+                            "fieldAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+                                "lat": "58.925086",
+                                "lon": "24.867191",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "233": "Kehtna alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.rako.edu.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel",
+                        "1690": "inglise keel",
+                        "1691": "vene keel"
+                    },
+                    "uid": "1",
+                    "title": "Raplamaa Rakenduslik Kolledž",
+                    "created": "1538404038"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2525": "Informatsiooni- ja kommunikatsioonitehnoloogiad"
+            },
+            "fieldIscedfDetailed": {
+                "2529": "Andmebaaside ja võrgu disain ning haldus"
+            },
+            "fieldIscedfNarrow": {
+                "2526": "Informatsiooni- ja kommunikatsioonitehnoloogiad"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "15",
+            "fieldSchoolAddress": "Kooli tn 1, Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolSearchAddress": "Kehtna alevik, Kehtna vald, Rapla maakond",
+            "fieldSchoolWebsite": "http://www.rako.edu.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2013": "Kutseõpe keskhariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "IT-turvaspetsialist",
+            "created": "1553212980"
+        },
+        {
+            "nid": "13130",
+            "path": "/erialad/keskkonnakaitse-5",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "140",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "28",
+            "fieldEducationalInstitution": {
+                "11203": {
+                    "fieldEducationalInstitutionTy": {
+                        "2364": "Kutseõppeasutus"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "kool@aianduskool.ee",
+                    "fieldSchoolContactPhone": "+372 516 6834",
+                    "fieldSchoolLocation": {
+                        "8778": {
+                            "fieldAddress": "Aianduse tn 6, Räpina linn, Räpina vald, Põlva maakond",
+                            "fieldCoordinates": {
+                                "name": "Aianduse tn 6, Räpina linn, Räpina vald, Põlva maakond",
+                                "lat": "58.097976",
+                                "lon": "27.4513",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "434": "Räpina linn"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "https://www.aianduskool.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Räpina Aianduskool",
+                    "created": "1538404181"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2490": "Loodusteadused, matemaatika ja statistika"
+            },
+            "fieldIscedfDetailed": {
+                "2501": "Looduskeskkond ja elusloodus"
+            },
+            "fieldIscedfNarrow": {
+                "2498": "Keskkond"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "32",
+            "fieldSchoolAddress": "Aianduse tn 6, Räpina linn, Räpina vald, Põlva maakond",
+            "fieldSchoolSearchAddress": "Räpina linn, Räpina vald, Põlva maakond",
+            "fieldSchoolWebsite": "https://www.aianduskool.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "keskkonnatehnoloogia ja -juhtimine",
+            "fieldStudyProgrammeLevel": {
+                "2013": "Kutseõpe keskhariduse baasil"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Keskkonnakaitse",
+            "created": "1561503780"
+        },
+        {
+            "nid": "13289",
+            "path": "/erialad/it-s%C3%BCsteemide-nooremspetsialist-osaoskus-it-kasutajatugi-ja-dokumendi-koostaja-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "60",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "12",
+            "fieldEducationalInstitution": {
+                "11825": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "ewers@ewers.ee",
+                    "fieldSchoolContactPhone": "7850800",
+                    "fieldSchoolLocation": {
+                        "9398": {
+                            "fieldAddress": "Kooli tee 1, Väimela alevik, Võru vald, Võru maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tee 1, Väimela alevik, Võru vald, Võru maakond",
+                                "lat": "57.891173",
+                                "lon": "27.013394",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "590": "Väimela alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.ewers.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Võrumaa Haridus- ja Tehnoloogiakeskus",
+                    "created": "1538404301"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2525": "Informatsiooni- ja kommunikatsioonitehnoloogiad"
+            },
+            "fieldIscedfDetailed": {
+                "2527": "Arvutikasutus"
+            },
+            "fieldIscedfNarrow": {
+                "2526": "Informatsiooni- ja kommunikatsioonitehnoloogiad"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "10",
+            "fieldSchoolAddress": "Kooli tee 1, Väimela alevik, Võru vald, Võru maakond",
+            "fieldSchoolSearchAddress": "Väimela alevik, Võru vald, Võru maakond",
+            "fieldSchoolWebsite": "http://www.ewers.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2372": "Põhihariduse nõudeta kutseõpe"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "IT-süsteemide nooremspetsialist (osaoskus IT-kasutajatugi ja dokumendi koostaja)",
+            "created": "1569625380"
+        },
+        {
+            "nid": "13296",
+            "path": "/erialad/metalltoodete-ettevalmistaja-viimistleja-0",
+            "id": "studyProgramme",
+            "fieldAccreditationStatus": null,
+            "fieldAccreditationValidUntil": null,
+            "fieldAdmissionBeginDate": null,
+            "fieldAdmissionEndDate": null,
+            "fieldAdmissionId": null,
+            "fieldAdmissionLink": null,
+            "fieldAmount": "30",
+            "fieldAmountUnit": "EKAP",
+            "fieldDegreeOrDiplomaAwarded": null,
+            "fieldDuration": "6",
+            "fieldEducationalInstitution": {
+                "11825": {
+                    "fieldEducationalInstitutionTy": {
+                        "1686": "Gümnaasium",
+                        "2364": "Kutseõppeasutus",
+                        "2371": "Põhikool"
+                    },
+                    "fieldOwnershipType": {
+                        "2033": "Riigiomandus"
+                    },
+                    "fieldSchoolContactEmail": "ewers@ewers.ee",
+                    "fieldSchoolContactPhone": "7850800",
+                    "fieldSchoolLocation": {
+                        "9398": {
+                            "fieldAddress": "Kooli tee 1, Väimela alevik, Võru vald, Võru maakond",
+                            "fieldCoordinates": {
+                                "name": "Kooli tee 1, Väimela alevik, Võru vald, Võru maakond",
+                                "lat": "57.891173",
+                                "lon": "27.013394",
+                                "zoom": null,
+                                "type": null,
+                                "width": null,
+                                "height": null,
+                                "marker": null,
+                                "traffic": null,
+                                "marker_icon": null,
+                                "controls": null,
+                                "infowindow": null
+                            },
+                            "fieldLocationType": "L",
+                            "fieldSchoolLocation": {
+                                "590": "Väimela alevik"
+                            },
+                            "paraType": "school_location"
+                        }
+                    },
+                    "fieldSchoolWebpageAddress": "http://www.ewers.ee",
+                    "fieldSpecialClass": null,
+                    "fieldTeachingLanguage": {
+                        "1689": "eesti keel"
+                    },
+                    "uid": "1",
+                    "title": "Võrumaa Haridus- ja Tehnoloogiakeskus",
+                    "created": "1538404301"
+                }
+            },
+            "fieldIscedfBoard": {
+                "2538": "Tehnika, tootmine ja ehitus"
+            },
+            "fieldIscedfDetailed": {
+                "2548": "Mehaanika ja metallitöö"
+            },
+            "fieldIscedfNarrow": {
+                "2539": "Tehnikaalad"
+            },
+            "fieldMetatags": null,
+            "fieldMinimumRequiredEducation": null,
+            "fieldPracticalTrainingAmount": "10",
+            "fieldSchoolAddress": "Kooli tee 1, Väimela alevik, Võru vald, Võru maakond",
+            "fieldSchoolSearchAddress": "Väimela alevik, Võru vald, Võru maakond",
+            "fieldSchoolWebsite": "http://www.ewers.ee",
+            "fieldShortDescription": null,
+            "fieldSpecialization": "määramata",
+            "fieldStudyProgrammeLevel": {
+                "2372": "Põhihariduse nõudeta kutseõpe"
+            },
+            "fieldStudyProgrammeType": {
+                "644": "Kutsehariduse õppekava"
+            },
+            "fieldTeachingLanguage": {
+                "1689": "eesti keel"
+            },
+            "uid": "1",
+            "title": "Metalltoodete ettevalmistaja viimistleja",
+            "created": "1569625380"
+        }
+    ],
+    "count": 3876,
+    "field_neurotolge_state": "translated_with_neurotolge"
+}

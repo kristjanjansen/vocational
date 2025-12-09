@@ -1,0 +1,381 @@
+# Curricula Comparison Report
+
+Generated: 2025-12-09T21:01:21.767Z
+
+## Summary
+
+- Total Tahvel curricula: 285
+- Total Haridusportaal curricula: 2481
+- Haridusportaal curricula with admission dates (unique): 275
+- Exact matches: 205
+- Only in Tahvel: 80
+- Only in Haridusportaal: 75
+
+## Exact Matches (205)
+
+- 500-se ja suurema kogumahutavusega laeva vahitüürimees
+- Abiaednik
+- Abikelner
+- Abikokk
+- Abipagar
+- Andmekaitsespetsialist
+- Arborist
+- Automaaler
+- Automaatik
+- Automaatik-tehnik
+- Autoplekksepp
+- Autorongijuht
+- Barber
+- Bio- ja keemiatööstuse tehnoloogia
+- Biogaasijaama operaator
+- Bussijuht
+- CNC freespingi operaator
+- CNC freespingi operaator-seadistaja
+- CNC puidutöötlemiskeskuse operaator
+- CNC treipingi operaator
+- CNC treipingi operaator-seadistaja
+- E-kaubanduse spetsialist
+- Ehituspuusepp
+- Ehitustehnoloogia
+- Ehitusviimistlus
+- Elektrituuliku labade hooldaja
+- Elektroonikaseadmete tehnik
+- Erakorralise meditsiini tehnik
+- Forvarderioperaator
+- Giid
+- Hambaraviassistent
+- Harvesterioperaator
+- Hobuhooldaja
+- Hooldustöötaja
+- Hoone tehnosüsteemide ehitus
+- Hooneautomaatik
+- Hotelliteenindus
+- IT-süsteemide nooremspetsialist
+- IT-süsteemide spetsialist
+- Ilu- ja heaoluteenused
+- Info- ja kommunikatsioonitehnoloogia
+- Infoturbespetsialist
+- Interpreet
+- Juuksur
+- Jätkusuutliku ettevõtluse korraldus
+- KOKK
+- Kalakasvataja
+- Kaldkatuseehitaja
+- Kasutajatoe tehnik
+- Kaubandus
+- Keevitaja
+- Keevitaja (osakutse TIG-keevitaja)
+- Keevitaja (osakutse poolautomaatkeevitaja)
+- Keevitaja (osakutsega poolautomaatkeevitaja)
+- Keevitus- ja metallitööd
+- Kelner
+- Keraamik
+- Kergete rõivaste rätsep
+- Kinnisvarahaldur
+- Kinnisvarahooldaja
+- Kinnisvarahooldus
+- Kinnisvaramaakler
+- Kivi- ja betoonkonstruktsioonide ehitus
+- Klienditeenindaja kaubanduses
+- Kokk
+- Komponist
+- Kondiiter
+- Koorijuht
+- Kosmeetik
+- Krohvija
+- Kujundusgraafik
+- Kutsevaliku õppekava
+- Köögiabiline
+- Külmamehaanik
+- Kütte- ja jahutussüsteemide lukksepp
+- Küünetehnik
+- Laborant
+- Lamekatuseehitaja
+- Laojuht
+- Laotöötaja
+- Lapsehoidja
+- Logistik
+- Logistika IT-süsteemide nooremspetsialist
+- Logistika ja laokorraldus
+- Loomaarsti abiline
+- Loomakasvataja
+- Loomakasvatustootja
+- Maaler
+- Maamõõdutehnik
+- Maastikuehitaja
+- Magustoidukokk
+- Majutusettevõtte juhtimine
+- Majutusteenindus
+- Maksuspetsialist
+- Masintöötlustehnoloogia
+- Massöör
+- Mehhatroonik
+- Mehhatroonik-tehnik
+- Metallide töötlemise tehnik-tehnoloog
+- Metalltoodete koostaja
+- Metsakasvatus
+- Mootorsõidukidiagnostik
+- Mootorsõidukidiagnostik (spetsialiseerumine sõiduautodiagnostik)
+- Mootorsõidukitehnik
+- Mootorsõidukitehnik (spetsialiseerumine sõiduautotehnik)
+- Multimeedia nooremspetsialist
+- Muusikateoreetik
+- Mööblirestauraator
+- Müügiesindaja
+- Müügikorraldaja
+- Müürsepp
+- Nahkkäsitöö valmistaja
+- Noorem tarkvaraarendaja
+- Nooremaednik
+- Pagar
+- Pagari- ja kondiitritoodete tehnoloogia
+- Pehme mööbli valmistaja
+- Pilli- või lauluõppe juhendaja
+- Plaatija
+- Podoloog
+- Pottsepp-sell
+- Puhastusteenindaja
+- Puhastusteenindaja (spetsialiseerumisel eripuhastustöötaja)
+- Puhastusteenindaja abiline
+- Puhastusteenindaja-juhendaja
+- Puhastustööde juht
+- Puidupingioperaator
+- Puidutöötleja
+- Puitehitiste restauraator
+- Puitkonstruktsioonide ehitus
+- Puittaimede spetsialist
+- Puittoodete tehnoloog
+- Puukooliaednik
+- Puukäsitöö
+- Puurmeister
+- Päikeseelektrisüsteemide paigaldaja
+- Pärandturismi korraldaja
+- Pärimusmuusik
+- Põllumajandustootja
+- Põllumajandustöötaja
+- Raamatupidaja
+- Reisikonsultant
+- Roboti operaator
+- Roboti operaator, tase 4
+- Robotitehnik
+- Rätsep-stilist (spetsialiseerumine naiste ülerõivaste valmistamine)
+- Rõivaõmblemine (osaoskus kergete rõivaste õmblemine)
+- Rütmimuusik
+- Sekretär
+- Sepp
+- Sisekujundaja assistent tekstiilialal
+- Sisetööde elektrik
+- Sotsiaalmeedia spetsialist
+- Spaateenindaja
+- Sterilisatsioonitehnik
+- Sõidukite kere ja värvitööde meister
+- Sõidukite pindade hooldaja ja rehvitehnik
+- Taimekasvataja
+- Taimekasvatustootja
+- Taksaator
+- Tarkvaraarendaja
+- Teedeehitaja
+- Teetöömasinate juht
+- Tegevusjuhendaja
+- Tekstiilkäsitöö
+- Tekstiilkäsitöö valmistaja (osakutse Kangakuduja)
+- Telekommunikatsiooni nooremspetsialist
+- Tervishoiusekretär
+- Tisler
+- Toiduainete tehnoloogia
+- Toitlustusteenindus
+- Turismikorraldaja
+- Turismiteenindus
+- Turismiteenused
+- Turundusspetsialist
+- Turvasüsteemide tehnik
+- Tööstuse digitehnoloogia
+- Tööstusinformaatik
+- Vanemkokk
+- Veekäitlusoperaator
+- Veevärgilukksepp
+- Ventilatsioonilukksepp
+- Veoautojuht
+- Veokorraldaja logistik
+- Veokorraldaja-logistik
+- Visuaalmeedia tehnoloogia
+- Väikeettevõtja
+- Väikelaevaehitaja
+- kinnisvaramaakler
+- kvaliteedispetsialist
+- maksuspetsialist
+- meeskonnajuht
+- nooremprojektijuht
+- ostu- ja hankespetsialist
+- personalispetsialist
+- raamatupidaja
+- sekretär
+- sotsiaalmeedia spetsialist
+- turundusspetsialist
+- väikeettevõtja
+- Ärikorralduse spetsialist
+- Õigusassistent
+- Õmbleja
+- ärikorralduse spetsialist
+- õigusassistent
+
+## Only in Tahvel (80)
+
+- Autojuht-veoseveo operaator
+- Autokeretehnik
+- Autoplekksepp-komplekteerija
+- Autorongi juht
+- Ballett
+- Betoonkonstruktsioonide ehitaja
+- CNC puidutöötlemisekeskuse operaator
+- Dokker
+- Ehitusplekksepp, tase 3
+- Ehitusplekksepp, tase 4 esmane kutse
+- Haljasalade hooldaja
+- IT turvaspetsialist
+- IT-tehnik
+- IT-turvaspetsialist
+- Info- ja kommunikatsioonitehnoloogia - IT-süsteemide nooremspetsialist
+- Juuksur ( osakutse Barber )
+- Keemiaprotsesside operaator
+- Keevitaja (osakutse „poolautomaatkeevitaja“)
+- Keevitaja, tase 4
+- Kelner gümnaasiumis õppijale
+- Kiviehitiste restauraator
+- Klaverihäälestaja-tehnik
+- Kujundaja (interaktiivse graafika kujundaja)
+- Kujundaja (kujundusgraafik)
+- Kujundaja (liikuva graafika kujundaja)
+- Kujundaja (stilist)
+- Köögiabiline, tase 2
+- Kütte- ja jahutussüsteemide lukksepp, tase 4 esmane kutse
+- Lapsehoidja õppekava
+- Lavavalgustehnik
+- Lehtmetalli laserlõikepingi operaator
+- Lehtmetalli painutuspingi operaator
+- Lehtmetalli plasma- ja gaasilõikepingi operaator
+- Logistiku abi
+- Loomakasvatustöötaja
+- Meisterjuuksur
+- Metallilõikepinkidel töötaja
+- Metallilõikepinkidel töötaja (spetsialiseerumisega Freesija)
+- Metsatööline
+- Mootorsõidukidiagnostik (spetsialiseerumine sõiduauto diagnostik)
+- Mootorsõidukidiagnostik (spetsialiseerumine/sõiduautodiagnostika)
+- Mootorsõidukitehnik (spetsialiseerumine/sõiduautotehnika)
+- Mootorsõidukitehnik (spetsialiseerumisega sõiduautotehnik)
+- Mootorsõidukitehnik (spetsialiseerumisega veoauto- ja bussitehnik)
+- Muusikaettevõtluse spetsialist
+- Mäetööline
+- Müüja-klienditeenindaja
+- Pehme mööbli valmistaja (osakutse karkassi koostaja)
+- Pehme mööbli valmistaja (osakutse pehme mööbli alus- ja pealistusmaterjalide juurdelõikus ja õmblemine)
+- Pehme mööbli valmistaja (osakutse pehme mööbli polsterdaja ja pealistaja)
+- Pilliõppe juhendaja
+- Pottsepp- sell
+- Puhastus ja kodumajandus
+- Puhastusteenindaja (spetsialiseerumisel majutusasutuse toateenindaja)
+- Puhastusteenindaja - juhendaja
+- Puidutöötleja, tase 2
+- Puidutöötleja, tase 3
+- Puukäsitööline
+- Puurija
+- Pärimusmuusik (maailmamuusik)
+- Raudteeveeremi hooldustehnik
+- Rätsep-stilist (spetsialiseerumine meeste rõivaste valmistamine)
+- Rõivaõmbleja
+- Side- ja võrgutehnoloogia
+- Sillutise paigaldaja
+- Sisekujundaja assistent tekstiilialal (Kodu- ja sisustustekstiilide õmblemine)
+- Soomustehnika tehnik-mehaanik
+- Sotsiaal- ja tervishoiuvaldkonna spetsialist
+- Sõiduautodiagnostik
+- Sõiduautotehnik
+- Sõidukite pindadehooldaja ja rehvitehnik
+- Taastuvenergia tehnoloogia ja seadmete paigaldaja
+- Tootmisautomaatik
+- Valikained?
+- Veekäitlusoperaator (osakutse joogiveekäitleja)
+- Veekäitlusoperaator (osakutse reoveekäitleja)
+- Ventilatsioonisüsteemide lukksepp
+- Veokorraldaja
+- Võsasaetööline
+- e-turunduse spetsialist
+
+## Only in Haridusportaal (75)
+
+- 750kW ja suurema peamasinate efektiivse koguvõimsusega mootorlaeva vahimehaanik
+- AEDNIK
+- Abivahendispetsialist
+- Aednik
+- Aktiivtegevuste instruktor
+- Autojuht–veoseveo operaator
+- Bürooassistent
+- CNC metallilõikepingi operaator
+- Ehitusplekksepp
+- Elektrituuliku tehnik
+- FLORIST
+- Florist
+- Fotograaf
+- Giid (spetsialiseerumisega Loodusgiid)
+- Giid (spetsialiseerumisega loodusgiid ja/või kultuurigiid)
+- IT süsteemide nooremspetsialist
+- Jaotusvõrgu elektrik
+- Jookide tehnoloogia
+- KESKKONNAKAITSE
+- Kasutajakogemuse ja kasutajaliidese disaini nooremspetsialist.
+- Kaugtöö- ja meeskonnajuht
+- Keraamika
+- Kestlike tehnoloogiate spetsialist materjaliringluse suunal
+- Kestlike tehnoloogiate spetsialist multimeedia suunal
+- Kestlikud tehnoloogiad
+- Kinnisvara heakorrameister
+- Kinnisvarahooldaja (spetsialiseerumine hoonete ja krundi rajatiste konstruktsioonide tehnohoolduse ja heakorratööde tegemine)
+- Kivi-ja betoonkonstruktsioonide ehitus
+- Kujundaja
+- Külmatehnika paigaldusjuht
+- Laevaelektrik
+- Laevamotorist
+- Lihatoodete tehnoloogia
+- Lihatöötleja
+- Linnaaednik
+- MEISTERFLORIST
+- Matkajuht
+- Mesinik
+- Metsamajanduse spetsialist
+- Metsaväljaveo autojuht
+- Metsur
+- Mootorsõidukidiagnostik (spetsialiseerumine liikurmasinadiagnostik)
+- Mootorsõidukidiagnostik (spetsialiseerumine sõiduautodiagnostika)
+- Mootorsõidukidiagnostik (sõiduautodiagnostik)
+- Mootorsõidukitehnik (spetsialiseerumine liikurmasinatehnik)
+- Multimeedia spetsialist
+- Noorem-maastikuehitaja
+- Pagaritööstuse liinioperaator
+- Palkmajaehitaja
+- Plastitöötluse seadistaja
+- Politseiametnik
+- Puhastus- ja kodumajandus
+- Puhastusteenindaja (spetsialiseerumine eripuhastustöötaja)
+- Puhastusteenindaja juhendaja
+- Puhastusteenindaja-juhendaja (spetsialiseerumine eripuhastustööde spetsialist)
+- Puitmajaehitaja
+- Puittaimede hindaja
+- Puittoodete konstrueerija-tehnoloog
+- Päästekorraldaja
+- Restauraator-viimistleja
+- Siseveelaeva laevajuht
+- Sõiduki pindade hooldaja/rehvitehnik
+- Sõidukite pindadehooldaja/rehvitehnik
+- TEKSTIILKÄSITÖÖLINE
+- TEKSTIILKÄSITÖÖLINE, spetsialiseerumine (pitstehnikas esemete valmistaja)
+- Tekstiilkäsitöö valmistaja (osakutse Masinkuduja)
+- Toitlustuskorraldus
+- Trükitehnoloogia
+- Turismiettevõtte teenindaja
+- Vanemkondiiter
+- Vanemmadrus
+- Vanempagar
+- Vanglaametnik
+- Väikesadama spetsialist
+- Võrguelektrik (kuni 35 kV)
