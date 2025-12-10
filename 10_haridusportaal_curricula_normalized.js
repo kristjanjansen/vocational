@@ -6,7 +6,7 @@ const rawData = await readJSON("input/07_haridusportaal_curricula.json");
 
 // Extract curriculum names from raw data, filtering for those with admission dates
 const curricula = rawData.entities
-  .filter((entity) => entity.fieldAdmissionBeginDate)
+  // .filter((entity) => entity.fieldAdmissionBeginDate)
   .map((entity) => entity.title.trim());
 
 const normalizeName = (name) => {

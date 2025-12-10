@@ -321,7 +321,7 @@
         "Elektrik",
         "Elektrik"
     ],
-    "Elektrituuliku tehnik": [
+    "Elektrituuliku labade hooldaja": [
         "Elektrituuliku tehnik"
     ],
     "Elektroonikakoostude koostaja": [
@@ -625,13 +625,11 @@
         "Keevitaja (osakutse poolautomaatkeevitaja)",
         "Keevitaja (osakutsega poolautomaatkeevitaja)"
     ],
-    "Keevitus ja metallitööd": [
-        "Keevitus ja metallitööd"
-    ],
     "Keevitus- ja metallitööd": [
         "Keevitus- ja metallitööd",
         "Keevitus- ja metallitööd",
         "Keevitus- ja metallitööd",
+        "Keevitus ja metallitööd",
         "Keevitus- ja metallitööd",
         "Keevituse- ja metallitööd",
         "Keevitus- ja metallitööd",
@@ -855,6 +853,7 @@
         "Kokk",
         "Kokk",
         "Kokk",
+        "Lihakokk",
         "Kokk",
         "Kokk",
         "Kokk",
@@ -896,16 +895,20 @@
         "Kondiiter",
         "Kondiiter",
         "Kondiiter",
+        "Pagar-kondiiter",
         "Kondiiter",
         "Kondiiter",
         "Kondiiter",
         "Kondiiter",
         "Kondiiter",
+        "Pagar-kondiiter",
         "Kondiiter",
         "Kondiiter",
         "Kondiiter",
+        "Pagar-kondiiter",
         "Kondiiter",
         "Kondiiter",
+        "Pagar, kondiiter",
         "Kondiiter",
         "Kondiiter",
         "Kondiiter"
@@ -1051,9 +1054,6 @@
     "Lehtmetalli laserlõikepingi operaator": [
         "Lehtmetalli laserlõikepingi operaator"
     ],
-    "Lihakokk": [
-        "Lihakokk"
-    ],
     "Lihatoodete tehnoloogia": [
         "Lihatoodete tehnoloogia",
         "Lihatoodete tehnoloogia"
@@ -1065,12 +1065,10 @@
     "Liikurmasinadiagnostik": [
         "Liikurmasinadiagnostik"
     ],
-    "Liikurmasinate tehnik": [
-        "Liikurmasinate tehnik"
-    ],
     "Liikurmasinatehnik": [
         "Liikurmasinatehnik",
-        "Liikurmasinatehnik"
+        "Liikurmasinatehnik",
+        "Liikurmasinate tehnik"
     ],
     "Linnaaednik": [
         "Linnaaednik"
@@ -1191,11 +1189,9 @@
     "Majandusarvestus": [
         "Majandusarvestus",
         "Majandusarvestus",
+        "Majandusarvestus ja maksundus",
         "Majandusarvestus",
         "Majandusarvestus"
-    ],
-    "Majandusarvestus ja maksundus": [
-        "Majandusarvestus ja maksundus"
     ],
     "Majutusettevõtte juhtimine": [
         "Majutusettevõtte juhtimine",
@@ -1399,14 +1395,12 @@
         "Mootorsõidukitehnik",
         "Mootorsõidukitehnik"
     ],
-    "Multimeedia kujundaja": [
-        "Multimeedia kujundaja"
-    ],
     "Multimeedia spetsialist": [
         "Multimeedia nooremspetsialist",
         "Multimeedia nooremspetsialist",
         "Multimeedia spetsialist",
-        "Multimeedia spetsialist"
+        "Multimeedia spetsialist",
+        "Multimeedia kujundaja"
     ],
     "Multimeedium": [
         "Multimeedium (Veebispetsialist)",
@@ -1489,12 +1483,10 @@
         "Müürsepp",
         "Müürsepp"
     ],
-    "Nahatöö": [
-        "Nahatöö"
-    ],
     "Nahkkäsitöö valmistaja": [
         "Nahkkäsitöö valmistaja",
         "Nahkkäsitöö valmistaja",
+        "Nahatöö",
         "Nahkkäsitöö valmistaja",
         "Nahkkäsitöö valmistaja"
     ],
@@ -1557,20 +1549,10 @@
         "Pagar",
         "Pagar"
     ],
-    "Pagar, kondiiter": [
-        "Pagar, kondiiter"
-    ],
-    "Pagar- ja kondiitritoodete tehnoloogia": [
-        "Pagar- ja kondiitritoodete tehnoloogia"
-    ],
-    "Pagar-kondiiter": [
-        "Pagar-kondiiter",
-        "Pagar-kondiiter",
-        "Pagar-kondiiter"
-    ],
     "Pagari- ja kondiitritoodete tehnoloogia": [
         "Pagari- ja kondiitritoodete tehnoloogia",
         "Pagari- ja kondiitritoodete tehnoloogia",
+        "Pagar- ja kondiitritoodete tehnoloogia",
         "Pagari- ja kondiitritoodete tehnoloogia",
         "Pagari- ja kondiitritoodete tehnoloogia",
         "Pagari- ja kondiitritoodete tehnoloogia",
@@ -1584,10 +1566,8 @@
         "Pagari- ja kondiitritoodete tehnoloogia",
         "Pagari- ja kondiitritoodete tehnoloogia"
     ],
-    "Pagari- ja kondiitritööstuse liinioperaator": [
-        "Pagari- ja kondiitritööstuse liinioperaator"
-    ],
     "Pagaritööstuse liinioperaator": [
+        "Pagari- ja kondiitritööstuse liinioperaator",
         "Pagaritööstuse liinioperaator"
     ],
     "Palkmajaehitaja": [
@@ -1901,8 +1881,10 @@
     ],
     "Rõivaõmbleja": [
         "Rõivaõmbleja",
-        "Rõivaõmblemine (osaoskus kergete rõivaste õmblemine)",
         "Rõivaõmbleja"
+    ],
+    "Rõivaõmblemine": [
+        "Rõivaõmblemine (osaoskus kergete rõivaste õmblemine)"
     ],
     "Rütmimuusik": [
         "Rütmimuusik",
@@ -1936,7 +1918,6 @@
         "Sekretär",
         "Sekretär",
         "Sekretär",
-        "Sekretäritöö",
         "Sekretär",
         "Sekretär",
         "Bürootöötaja",
@@ -1947,12 +1928,17 @@
         "Bürooassistent",
         "Bürooassistent",
         "Bürootöötaja",
-        "Sekretär",
+        "Sekretär"
+    ],
+    "Sekretäritöö": [
+        "Sekretäritöö",
         "Sekretäritöö"
+    ],
+    "Sepatöö": [
+        "Sepatöö"
     ],
     "Sepp": [
         "Sepp",
-        "Sepatöö",
         "Sepp",
         "Sepp"
     ],
@@ -2081,7 +2067,9 @@
         "Taastuvenergia tehnoloogia ja seadmete paigaldaja"
     ],
     "Taimekasvataja": [
-        "Taimekasvataja",
+        "Taimekasvataja"
+    ],
+    "Taimekasvatustootja": [
         "Taimekasvatustootja",
         "Taimekasvatustootja"
     ],
@@ -2125,39 +2113,41 @@
         "Tegevusjuhendaja",
         "Tegevusjuhendaja"
     ],
-    "Tekstiilikäsitöö": [
-        "Tekstiilitöö",
-        "Tekstiilitöö",
-        "TEKSTIILKÄSITÖÖLINE",
-        "TEKSTIILKÄSITÖÖLINE, spetsialiseerumine (pitstehnikas esemete valmistaja)",
-        "Tekstiilitöö"
-    ],
     "Tekstiilikäsitööline": [
+        "Tekstiilkäsitöö",
+        "Tekstiilkäsitöö",
+        "Tekstiilkäsitöö",
         "Tekstiilikäsitööline",
+        "Tekstiilkäsitöö",
+        "Tekstiilkäsitöö",
+        "Tekstiilkäsitöö",
         "Tekstiilkäsitöö valmistaja (osakutse Masinkuduja)",
         "Tekstiilkäsitöö valmistaja (osakutse Kangakuduja)",
         "Tekstiilkäsitöö valmistaja (osakutse käsitöö valmistaja kangakudumise alal)",
+        "Tekstiilkäsitöö",
+        "Tekstiilkäsitöö",
         "Tekstiilkäsitöö valmistaja (osakutse käsitöö valmistaja kangakudumise alal)",
+        "Tekstiilkäsitöö",
+        "Tekstiilkäsitöö",
+        "Tekstiilkäsitöö",
+        "Tekstiilkäsitöö",
+        "Tekstiilkäsitöö",
+        "Tekstiilkäsitöö",
         "Tekstiilkäsitöö valmistaja (osakutse Kangakuduja)"
     ],
-    "Tekstiilkäsitöö": [
-        "Tekstiilkäsitöö",
-        "Tekstiilkäsitöö",
-        "Tekstiilkäsitöö",
-        "Tekstiilkäsitöö",
-        "Tekstiilkäsitöö",
-        "Tekstiilkäsitöö",
-        "Tekstiilkäsitöö",
-        "Tekstiilkäsitöö",
-        "Tekstiilkäsitöö",
-        "Tekstiilkäsitöö",
-        "Tekstiilkäsitöö",
-        "Tekstiilkäsitöö",
-        "Tekstiilkäsitöö",
-        "Tekstiilkäsitöö"
+    "Tekstiilitöö": [
+        "Tekstiilitöö",
+        "Tekstiilitöö",
+        "Tekstiilitöö"
+    ],
+    "Tekstiilkäsitööline": [
+        "TEKSTIILKÄSITÖÖLINE",
+        "TEKSTIILKÄSITÖÖLINE, spetsialiseerumine (pitstehnikas esemete valmistaja)"
     ],
     "Telekommunikatsiooni nooremspetsialist": [
-        "Telekommunikatsiooni nooremspetsialist",
+        "Telekommunikatsiooni nooremspetsialist"
+    ],
+    "Telekommunikatsiooni seadmete spetsialist": [
         "Telekommunikatsiooni seadmete spetsialist"
     ],
     "Telekommunikatsiooni spetsialist": [
@@ -2370,7 +2360,7 @@
         "Veokorraldaja",
         "Veokorraldaja"
     ],
-    "Veokorraldaja- logistik": [
+    "Veokorraldaja logistik": [
         "Veokorraldaja- logistik"
     ],
     "Veokorraldaja-logistik": [
@@ -2399,22 +2389,18 @@
         "Väikeettevõtja",
         "Väikeettevõtja",
         "Väikeettevõtja",
+        "Väikeettevõtlus",
         "Väikeettevõtja"
-    ],
-    "Väikeettevõtlus": [
-        "Väikeettevõtlus"
     ],
     "Väikeettevõtte turundusspetsialist": [
         "Väikeettevõtte turundusspetsialist"
-    ],
-    "Väikelaevade ehitus": [
-        "Väikelaevade ehitus"
     ],
     "Väikelaevaehitaja": [
         "Väikelaevaehitaja",
         "Väikelaevaehitaja",
         "Väikelaevaehitaja",
-        "Väikelaevaehitaja"
+        "Väikelaevaehitaja",
+        "Väikelaevade ehitus"
     ],
     "Väikemasina-, mootor- ja jalgrattatehnik": [
         "Väikemasina-, mootor- ja jalgrattatehnik",

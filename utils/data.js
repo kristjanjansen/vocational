@@ -17,6 +17,24 @@ export function normalizeCurriculumName(name) {
   // Remove everything after ", spetsialiseerumisega" and remove ", spetsialiseerumisega" too
   normalized = normalized.replace(/,\s*spetsialiseerumisega/gi, "");
 
+  // Handle "Pagar, kondiiter" -> "Kondiiter" normalization
+  if (normalized.toLowerCase() === "pagar, kondiiter") {
+    normalized = "Kondiiter";
+  }
+
+  // Handle additional pastry-related normalizations
+  if (normalized.toLowerCase() === "pagar- ja kondiitritoodete tehnoloogia") {
+    normalized = "Pagari- ja kondiitritoodete tehnoloogia";
+  }
+  if (normalized.toLowerCase() === "pagar-kondiiter") {
+    normalized = "Kondiiter";
+  }
+  if (
+    normalized.toLowerCase() === "pagari- ja kondiitritööstuse liinioperaator"
+  ) {
+    normalized = "Pagaritööstuse liinioperaator";
+  }
+
   // Remove level indicators like ", tase 2", ", tase 3", etc.
   normalized = normalized.replace(/,\s*tase\s*\d+(\s*esmane kutse)?/gi, "");
 
@@ -33,6 +51,7 @@ export function normalizeCurriculumName(name) {
     "automaatik-tehnik": "Automaatik",
     "autoplekksepp-komplekteerija": "Autoplekksepp",
     "keevituse- ja metallitööd": "Keevitus- ja metallitööd",
+    "keevitus ja metallitööd": "Keevitus- ja metallitööd",
     "kivi- ja betoonkonstruktsioonide ehitus":
       "kivi-ja betoonkonstruktsioonide ehitus",
     "kompositsiooni eriala": "Komponist",
@@ -45,49 +64,55 @@ export function normalizeCurriculumName(name) {
     "metallitöötlemispinkidel töötleja": "Metallitöötlemispinkidel töötaja",
     "metsanduse spetsialist": "Metsamajanduse spetsialist",
     "multimeedia nooremspetsialist": "Multimeedia spetsialist",
+    "multimeedia kujundaja": "Multimeedia spetsialist",
     "müüja- klienditeenindaja": "Müüja-klienditeenindaja",
     "õhusõiduki hooldustehnik": "Õhusõiduki tehnik",
     "pagar - kondiiter": "Pagar-kondiiter",
     "pagar kondiiter": "Pagar-kondiiter",
-    "pagar-kondiiter": "Pagar-kondiiter",
+    "pagar-kondiiter": "Kondiiter",
     "pilli- või lauluõppe juhendaja": "Pilliõppe juhendaja",
     "potsepp-sell": "Pottsepp-sell",
     "puhastusteenindaja-juhendaja": "Puhastusteenindaja juhendaja",
     "puitkonstruktsioonide ehitus": "Puitkonstruktsioonide ehitaja",
     "puittoodete konstrueerija-tehnoloog": "Puittoodete tehnoloog",
-    "rätsep- stilist": "Rätsep-stilist",
-    "sõidukite kere ja värvitööde meister":
-      "sõidukite kere- ja värvitööde meister",
-    "tarkvara arendus": "Tarkvaraarendaja",
-    "tekstiilkäsitöö valmistaja": "Tekstiilikäsitööline",
-    "telekommunikatsiooni seadmete spetsialist":
-      "telekommunikatsiooni nooremspetsialist",
     autorongijuht: "Autorongi juht",
+    aiandus: "Aednik",
     bürooassistent: "Sekretär",
     bürootöö: "Sekretär",
     bürootöötaja: "Sekretär",
     ehitusviimitlus: "Ehitusviimistlus",
+    ehitusviimistlus: "Ehitusviimistlus",
+    "elektrituuliku tehnik": "Elektrituuliku labade hooldaja",
+    hooneautomaatik: "Automaatik",
     hotelliteenindus: "Hotelliteenindaja",
     infoturbespetsialist: "IT-turvaspetsialist",
     keraamik: "Keraamikaesemete valmistaja",
     keraamika: "Keraamikaesemete valmistaja",
     kinnisvarahooldus: "Kinnisvarahooldaja",
+    kinnisvarahooldaja: "Kinnisvarahooldaja",
+    lihakokk: "Kokk",
     loomakasvatustöötaja: "Loomakasvataja",
     maastikuehitus: "Maastikuehitaja",
     majutusteenindus: "Majutusteenindaja",
     mehhatroonika: "Mehhatroonik",
     müügikorraldus: "Müügikorraldaja",
+    nahatöö: "Nahkkäsitöö valmistaja",
     puidupingioperaator: "Puidupingitööline",
+    "rätsep- stilist": "Rätsep-stilist",
     rätsepatöö: "Rätsep-stilist",
-    rõivaõmblemine: "Rõivaõmbleja",
-    sekretäritöö: "Sekretär",
-    sepatöö: "Sepp",
-    taimekasvatustootja: "Taimekasvataja",
-    tekstiilitöö: "Tekstiilikäsitöö",
-    tekstiilkäsitööline: "Tekstiilikäsitöö",
+    "sõidukite kere ja värvitööde meister":
+      "sõidukite kere- ja värvitööde meister",
+    "tarkvara arendus": "Tarkvaraarendaja",
+    "tekstiilkäsitöö valmistaja": "Tekstiilikäsitööline",
+    tekstiilkäsitöö: "Tekstiilikäsitööline",
     turismikorraldus: "Turismikorraldaja",
     turismiteenindus: "Turismiettevõtte teenindaja",
     turismiteenused: "Turismiettevõtte teenindaja",
+    "veokorraldaja- logistik": "Veokorraldaja logistik",
+    väikeettevõtlus: "Väikeettevõtja",
+    "väikelaevade ehitus": "Väikelaevaehitaja",
+    "liikurmasinate tehnik": "Liikurmasinatehnik",
+    "majandusarvestus ja maksundus": "Majandusarvestus",
   };
 
   // Items to remove

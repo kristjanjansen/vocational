@@ -14,6 +14,7 @@ async function main() {
     const haridusilmCurricula = [];
     for (const item of haridusilmData.slice(1)) {
       const curriculumName = item["__EMPTY_2"] || "";
+
       if (curriculumName && curriculumName !== "Õppeasutus") {
         haridusilmCurricula.push(curriculumName.trim());
       }

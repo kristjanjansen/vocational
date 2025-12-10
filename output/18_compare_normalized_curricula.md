@@ -1,82 +1,137 @@
 # Normalized Curriculum Comparison Report
 
 ## Overview
-- **Haridusportaal curricula**: 230
-- **Haridusilm curricula**: 372
-- **Exact matches**: 212
-- **Only in Haridusportaal**: 18
-- **Only in Haridusilm**: 160
+- **Haridusportaal curricula**: 431
+- **Haridusilm curricula**: 365
+- **Exact matches**: 354
+- **Only in Haridusportaal**: 77
+- **Only in Haridusilm**: 11
 
-## Exact Matches (212)
+## Exact Matches (354)
+- 3d modelleerija-visualiseerija
 - 500-se ja suurema kogumahutavusega laeva vahitüürimees
 - 750kw ja suurema peamasinate efektiivse koguvõimsusega mootorlaeva vahimehaanik
+- APJ lehtmetalli töötlemispinkide operaator
 - Abiaednik
 - Abikelner
 - Abikokk
 - Abipagar
 - Abivahendispetsialist
 - Aednik
+- Aedviljatöötleja
+- Akordioni eriala
 - Aktiivtegevuste instruktor
 - Andmekaitsespetsialist
 - Arborist
+- Arhiivikorrastaja
+- Arvjuhtimisega
+- Arvutid ja arvutivõrgud
+- Arvutivõrkude turvamine
+- Autodiagnostik
 - Autojuht–veoseveo operaator
+- Autokeretehnik
 - Automaaler
 - Automaatik
 - Autoplekksepp
 - Autorongi juht
+- Autotehnik
+- Avaliku sektori asutuse finantsist
+- Ballett
 - Barber
+- Betoonkonstruktsioonide ehitaja
 - Biogaasijaama operaator
 - Bussijuht
 - CNC operaator
+- Dekoraator-stilist
+- Demineerija eod1
+- Dokker
 - E-kaubanduse spetsialist
+- E-turundusspetsialist
 - Ehitusplekksepp
 - Ehituspuusepp
 - Ehitusviimistlus
-- Elektrituuliku tehnik
+- Elektrik
+- Elektrituuliku labade hooldaja
+- Elektroonikakoostude koostaja
+- Elektroonikaseadmete koostaja
 - Elektroonikaseadmete tehnik
 - Erakorralise meditsiini tehnik
+- Ettevõtte õigustoimingute spetsialist
 - Florist
 - Forvarderioperaator
+- Fotoelektriliste elektritootmissüsteemide paigaldaja
 - Fotograaf
+- Füsioterapeudi assistent
 - Giid
 - Hambaraviassistent
 - Harvesterioperaator
+- Helindaja
+- Helindaja eriala
 - Hobuhooldaja
+- Hobumajandus
 - Hooldustöötaja
 - Hoone tehnosüsteemide ehitus
 - Hotelliteenindaja
 - IT süsteemide nooremspetsialist
+- IT tugiisik
 - IT-süsteemide nooremspetsialist
 - IT-süsteemide spetsialist
+- IT-tehnik
 - IT-turvaspetsialist
+- Infotehnoloogia süsteemide nooremspetsialist
 - Interpreet
 - Jaotusvõrgu elektrik
 - Jookide tehnoloogia
+- Juhtumikorraldaja
+- Juristi abi
 - Juuksur
+- Kaasaegne tants
 - Kalakasvataja
+- Kalakokk
 - Kaldkatuseehitaja
+- Kangakuduja
+- Kasutajakogemuse disaini nooremspetsialist
 - Kasutajakogemuse ja kasutajaliidese disaini nooremspetsialist
 - Kasutajatoe tehnik
 - Kaubandus
 - Kaugtöö- ja meeskonnajuht
+- Keelpillide eriala
+- Keemiaprotsesside operaator
 - Keevitaja
 - Keevitus- ja metallitööd
 - Kelner
 - Keraamikaesemete valmistaja
 - Kergete rõivaste rätsep
 - Keskkonnakaitse
+- Keskkonnatehnika lukksepp
 - Kestlike tehnoloogiate spetsialist materjaliringluse suunal
 - Kestlike tehnoloogiate spetsialist multimeedia suunal
 - Kestlikud tehnoloogiad
+- Kindlustusspetsialist
 - Kinnisvarahaldur
 - Kinnisvarahooldaja
 - Kinnisvaramaakler
+- Kivi- ja betoonkonstruktsioonide ehitaja
 - Kivi-ja betoonkonstruktsioonide ehitus
+- Kiviehitiste restauraator
+- Klaasipuhuja assistent
+- Klassikaline ballett
+- Klassikalise kitarri eriala
+- Klassikalise laulu eriala
+- Klaveri eriala
+- Klaverihäälestaja-tehnik
+- Klaverite hooldusmeistri eriala
+- Klavessiini eriala
+- Kliendinõustaja pangas
 - Klienditeenindaja kaubanduses
+- Kodumajandus
 - Kokk
 - Komponist
 - Kondiiter
+- Konventsionaalsetel metallilõikepinkidel töötaja
 - Koorijuht
+- Koostelukksepp
+- Korstnapühkija
 - Kosmeetik
 - Krohvija
 - Kujundaja
@@ -90,67 +145,107 @@
 - Laborant
 - Laevaelektrik
 - Lamekatuseehitaja
+- Lamekatusekatja
+- Laohoidja
 - Laojuht
 - Laotöötaja
 - Lapsehoidja
+- Lavavalgustehnik
+- Lehtmetalli laserlõikepingi operaator
 - Lihatoodete tehnoloogia
 - Lihatöötleja
+- Liikurmasinadiagnostik
+- Liikurmasinatehnik
 - Linnaaednik
 - Logistik
+- Logistika IT süsteemide nooremspetsialist
 - Logistika IT-süsteemide nooremspetsialist
+- Logistika klienditeenindaja
+- Logistiku abi
+- Loodusturismi korraldus
+- Loodusturismi korraldus retkejuhtimisele
 - Loomaarsti abiline
 - Loomakasvataja
 - Loomakasvatustootja
+- Löökpillide eriala
 - Maaler
 - Maamõõdutehnik
 - Maastikuehitaja
+- Maaturism
+- Majandusarvestus
 - Majutusettevõtte juhtimine
+- Majutuskorraldus
 - Majutusteenindaja
 - Maksuspetsialist
 - Massöör
 - Matkajuht
 - Meeskonnajuht
+- Meesterätsep
 - Mehhatroonik
+- Meisteraednik
+- Meisterarborist
 - Meisterflorist
+- Meisterjuuksur
+- Mesindussaaduste tootja
 - Mesinik
 - Metallide töötlemise tehnik-tehnoloog
+- Metallilõikepinkidel töötaja
+- Metallitöötlemispinkidel töötaja
 - Metsakasvatus
 - Metsamajanduse spetsialist
+- Metsatehnik
+- Metsatööline
 - Metsaväljaveo autojuht
 - Metsur
+- Mootorsõiduki kliimaseadmete käitleja
 - Mootorsõidukidiagnostik
 - Mootorsõidukitehnik
 - Multimeedia spetsialist
+- Multimeedium
+- Muusikaettevõtluse spetsialist
+- Muusikateooria eriala
 - Muusikateoreetik
+- Mäetööline
 - Mööblirestauraator
 - Müügiesindaja
 - Müügikorraldaja
+- Müüja
+- Müüja-klienditeenindaja
 - Müürsepp
 - Nahkkäsitöö valmistaja
 - Noorem tarkvaraarendaja
 - Noorem-maastikuehitaja
 - Nooremaednik
 - Nooremprojektijuht
+- Nõrkvoolusüsteemide paigaldaja
+- Oreli eriala
 - Ostu- ja hankespetsialist
 - Pagar
 - Pagari- ja kondiitritoodete tehnoloogia
 - Pagaritööstuse liinioperaator
 - Palkmajaehitaja
+- Patrullpolitseinik
 - Pehme mööbli valmistaja
+- Peoteenindus
 - Personalispetsialist
+- Piimatoodete tehnoloogia
+- Piirivalvur
 - Pilliõppe juhendaja
 - Plaatija
 - Plastitöötluse seadistaja
 - Podoloog
 - Politseiametnik
 - Pottsepp-sell
+- Projektijuhi assistent
 - Puhastus- ja kodumajandus
 - Puhastusteenindaja
 - Puhastusteenindaja abiline
 - Puhastusteenindaja juhendaja
 - Puhastustööde juht
+- Puhkpillide eriala
 - Puidupingitööline
 - Puidutöötleja
+- Puit- ja kiviehitiste restauraator
 - Puitehitiste restauraator
 - Puitkonstruktsioonide ehitaja
 - Puitmajaehitaja
@@ -158,253 +253,210 @@
 - Puittoodete tehnoloog
 - Puukooliaednik
 - Puukäsitöö
+- Puukäsitööline
+- Puurija
 - Puurmeister
 - Päikeseelektrisüsteemide paigaldaja
 - Pärandturismi korraldaja
 - Pärimusmuusik
 - Päästekorraldaja
+- Päästekorraldaja-logistik
+- Päästemeeskonna juht
+- Päästja
+- Põllumajandus
 - Põllumajandustootja
 - Põllumajandustöötaja
 - Raamatupidaja
+- Raietööline
+- Raudteeveeremi lukksepp
 - Reisikonsultant
+- Reisikorraldus
+- Rekreatsioonikorraldus
 - Restauraator-viimistleja
 - Roboti operaator
 - Robotitehnik
 - Rätsep-stilist
 - Rõivaõmbleja
 - Rütmimuusik
+- Rütmimuusika laulmise eriala
+- Rütmimuusika pillide eriala
 - Sekretär
 - Sepp
+- Silmuskuduja
 - Sisekujundaja assistent tekstiilialal
 - Sisetööde elektrik
 - Siseveelaeva laevajuht
+- Soojuspumpade paigaldaja
+- Soomustehnika tehnik-mehaanik
+- Sotsiaal- ja tervishoiuvaldkonna spetsialist
 - Sotsiaalmeedia spetsialist
 - Spaateenindaja
 - Sterilisatsioonitehnik
+- Sõiduautodiagnostik
+- Sõiduautotehnik
 - Sõidukite kere- ja värvitööde meister
+- Sõidukite kere‐ ja värvitööde meister
 - Sõidukite pindadehooldaja-rehvitehnik
+- Sõjaväeline juhtimine vanemallohvitseridele
+- Süsteemiadministraator
+- Süüteomenetleja
+- Taastuvenergia tehnoloogia ja seadmete paigaldaja
 - Taimekasvataja
 - Taksaator
+- Tarkvara ja andmebaaside haldus
 - Tarkvaraarendaja
+- Teabe- ja uurimisametnik
 - Teedeehitaja
 - Teetöömasinate juht
 - Tegevusjuhendaja
-- Tekstiilikäsitöö
 - Tekstiilikäsitööline
-- Tekstiilkäsitöö
 - Telekommunikatsiooni nooremspetsialist
+- Telekommunikatsiooni spetsialist
+- Telekommunikatsiooni vanemtehnik
+- Teleoperaator
 - Tervishoiusekretär
 - Tisler
 - Toiduainete tehnoloogia
+- Toiduainete töötlemine
 - Toitlustuskorraldus
 - Toitlustusteenindus
+- Tootmisautomaatik
+- Trükimeedia kujundaja-küljendaja
 - Trükitehnoloogia
+- Turismiettevõtte juhtimine
 - Turismiettevõtte teenindaja
 - Turismikorraldaja
 - Turundusspetsialist
 - Turvasüsteemide tehnik
+- Tööriistalukksepp
 - Tööstusinformaatik
+- Tööstuslike metalltoodete värvija
+- Vahimotorist
+- Vanemkelner
 - Vanemkokk
 - Vanemkondiiter
 - Vanemmadrus
 - Vanempagar
 - Vanglaametnik
-- Veekäitlusoperaator
-- Veevärgilukksepp
-- Veoautojuht
-- Veokorraldaja-logistik
-- Väikeettevõtja
-- Väikelaevaehitaja
-- Väikesadama spetsialist
-- Võrguelektrik
-- Ärikorralduse spetsialist
-- Õigusassistent
-- Õmbleja
-
-## Only in Haridusportaal (18)
-- Bio- ja keemiatööstuse tehnoloogia
-- Ehitustehnoloogia
-- Elektrituuliku labade hooldaja
-- Hooneautomaatik
-- Ilu- ja heaoluteenused
-- Info- ja kommunikatsioonitehnoloogia
-- Jätkusuutliku ettevõtluse korraldus
-- Kinnisvara heakorrameister
-- Laevamotorist
-- Logistika ja laokorraldus
-- Magustoidukokk
-- Masintöötlustehnoloogia
-- Metalltoodete koostaja
-- Puittaimede spetsialist
-- Tööstuse digitehnoloogia
-- Ventilatsioonilukksepp
-- Veokorraldaja logistik
-- Visuaalmeedia tehnoloogia
-
-## Only in Haridusilm (160)
-- 3d modelleerija-visualiseerija
-- APJ lehtmetalli töötlemispinkide operaator
-- Aedviljatöötleja
-- Akordioni eriala
-- Arhiivikorrastaja
-- Arvjuhtimisega
-- Arvutid ja arvutivõrgud
-- Arvutivõrkude turvamine
-- Autodiagnostik
-- Autokeretehnik
-- Autotehnik
-- Avaliku sektori asutuse finantsist
-- Ballett
-- Betoonkonstruktsioonide ehitaja
-- Dekoraator-stilist
-- Demineerija eod1
-- Dokker
-- E-turundusspetsialist
-- Elektrik
-- Elektroonikakoostude koostaja
-- Elektroonikaseadmete koostaja
-- Ettevõtte õigustoimingute spetsialist
-- Fotoelektriliste elektritootmissüsteemide paigaldaja
-- Füsioterapeudi assistent
-- Helindaja
-- Helindaja eriala
-- Hobumajandus
-- IT tugiisik
-- IT-tehnik
-- Infotehnoloogia süsteemide nooremspetsialist
-- Juhtumikorraldaja
-- Juristi abi
-- Kaasaegne tants
-- Kalakokk
-- Kangakuduja
-- Kasutajakogemuse disaini nooremspetsialist
-- Keelpillide eriala
-- Keemiaprotsesside operaator
-- Keevitus ja metallitööd
-- Keskkonnatehnika lukksepp
-- Kindlustusspetsialist
-- Kinnisvara hooldusmeister
-- Kivi- ja betoonkonstruktsioonide ehitaja
-- Kiviehitiste restauraator
-- Klaasipuhuja assistent
-- Klassikaline ballett
-- Klassikalise kitarri eriala
-- Klassikalise laulu eriala
-- Klaveri eriala
-- Klaverihäälestaja-tehnik
-- Klaverite hooldusmeistri eriala
-- Klavessiini eriala
-- Kliendinõustaja pangas
-- Kodumajandus
-- Konventsionaalsetel metallilõikepinkidel töötaja
-- Koostelukksepp
-- Korstnapühkija
-- Lamekatusekatja
-- Laohoidja
-- Lavavalgustehnik
-- Lehtmetalli laserlõikepingi operaator
-- Lihakokk
-- Liikurmasinadiagnostik
-- Liikurmasinate tehnik
-- Liikurmasinatehnik
-- Logistika IT süsteemide nooremspetsialist
-- Logistika klienditeenindaja
-- Logistiku abi
-- Loodusturismi korraldus
-- Loodusturismi korraldus retkejuhtimisele
-- Löökpillide eriala
-- Maaturism
-- Majandusarvestus
-- Majandusarvestus ja maksundus
-- Majutuskorraldus
-- Massaaži eriala: spordimassöör
-- Meesterätsep
-- Meisteraednik
-- Meisterarborist
-- Meisterjuuksur
-- Mesindussaaduste tootja
-- Metallilõikepinkidel töötaja
-- Metallitöötlemispinkidel töötaja
-- Metsatehnik
-- Metsatööline
-- Mootorsõiduki kliimaseadmete käitleja
-- Multimeedia kujundaja
-- Multimeedium
-- Muusikaettevõtluse spetsialist
-- Muusikateooria eriala
-- Mäetööline
-- Müüja
-- Müüja-klienditeenindaja
-- Nahatöö
-- Nõrkvoolusüsteemide paigaldaja
-- Oreli eriala
-- Pagar, kondiiter
-- Pagar- ja kondiitritoodete tehnoloogia
-- Pagar-kondiiter
-- Pagari- ja kondiitritööstuse liinioperaator
-- Patrullpolitseinik
-- Peoteenindus
-- Piimatoodete tehnoloogia
-- Piirivalvur
-- Projektijuhi assistent
-- Puhkpillide eriala
-- Puit- ja kiviehitiste restauraator
-- Puukäsitööline
-- Puurija
-- Päästekorraldaja-logistik
-- Päästemeeskonna juht
-- Päästja
-- Põllumajandus
-- Rahvuslik puutööndus
-- Raietööline
-- Raudteeveeremi lukksepp
-- Reisikorraldus
-- Rekreatsioonikorraldus
-- Rütmimuusika laulmise eriala
-- Rütmimuusika pillide eriala
-- Silmuskuduja
-- Soojuspumpade paigaldaja
-- Soomustehnika tehnik-mehaanik
-- Sotsiaal- ja tervishoiuvaldkonna spetsialist
-- Sõiduautodiagnostik
-- Sõiduautotehnik
-- Sõidukite kere‐ ja värvitööde meister
-- Sõjaväeline juhtimine vanemallohvitseridele
-- Süsteemiadministraator
-- Süüteomenetleja
-- Taastuvenergia tehnoloogia ja seadmete paigaldaja
-- Tarkvara ja andmebaaside haldus
-- Teabe- ja uurimisametnik
-- Teabegraafik
-- Telekommunikatsiooni spetsialist
-- Telekommunikatsiooni vanemtehnik
-- Teleoperaator
-- Toiduainete töötlemine
-- Tootmisautomaatik
-- Trükimeedia kujundaja-küljendaja
-- Turismiettevõtte juhtimine
-- Tööriistalukksepp
-- Tööstuslike metalltoodete värvija
-- Vahimotorist
-- Vanemkelner
 - Vastuvõtu administraator
 - Vastuvõtu ja majapidamistööde korraldus
+- Veekäitlusoperaator
+- Veevärgilukksepp
 - Vegankokk
 - Ventilatsioonisüsteemide lukksepp
 - Veoauto- ja bussitehnik
+- Veoautojuht
 - Veokorraldaja
-- Veokorraldaja- logistik
+- Veokorraldaja logistik
+- Veokorraldaja-logistik
 - Visuaalmeedia spetsialist
-- Väikeettevõtlus
+- Väikeettevõtja
 - Väikeettevõtte turundusspetsialist
-- Väikelaevade ehitus
+- Väikelaevaehitaja
 - Väikemasina-, mootor- ja jalgrattatehnik
+- Väikesadama spetsialist
+- Võrguelektrik
 - Võrgutehnik
 - Ärikorraldus
+- Ärikorralduse spetsialist
 - Õhusõiduki tehnik
+- Õigusassistent
+- Õmbleja
+
+## Only in Haridusportaal (77)
+- Aiandus
+- Arboristi maatugi
+- Automaatika
+- Bio- ja keemiatööstuse tehnoloogia
+- Ehitustehnoloogia
+- Elektriseadmete koostaja
+- Elektrituuliku tehnik
+- Elektroonikaseadmete remontija
+- Eritoitlustus
+- Haljasalade hooldaja
+- Hooneautomaatik
+- IT projektide koordineerimise tugiisik
+- IT turvaspetsialist
+- Illustraator
+- Ilu- ja heaoluteenused
+- Info- ja kommunikatsioonitehnoloogia
+- Infohalduse spetsialist
+- Järelevalve meeskonna vanem
+- Jätkusuutliku ettevõtluse korraldus
+- Kaablikoostude koostaja
+- Kandle eriala
+- Katuste restauraator
+- Kaubapaigutaja
+- Kergmetallkonstruktsioonide koostaja
+- Kinnisvara heakorrameister
+- Kinnisvara hooldus
+- Kivitöö
+- Klahvpillide eriala
+- Klaver, viiul, tšello, plokkflööt, põikflööt, trompet, saksofon, tuuba, akordion, löökpillid
+- Kodutekstiilide õmbleja
+- Kujundamise esmaoskused teistele erialadele
+- Kõnekeskuse klienditeenindadaja
+- Laevakere koostaja
+- Laevamotorist
+- Lehtmetalli painutuspingi operaator
+- Lehtmetalli plasma- ja gaasilõikepingi operaator
+- Lihakokk
+- Liikurmasinajuht
+- Logistika ja laokorraldus
+- Madrus
+- Magustoidukokk
+- Masintöötlustehnoloogia
+- Meisterkondiiter
+- Metallkonstruktsioonide koostaja
+- Metalltoodete ettevalmistaja viimistleja
+- Metalltoodete koostaja
+- Monteerija
+- Pagar-kondiiter
+- Pagari- ja kondiitritööstuse liinioperaator
+- Peenmehaanik
+- Pop-jazz
+- Puhk- ja löökpillide eriala
+- Puittaimede spetsialist
+- Puittoodete viimistleja
+- Pulbervärvija
+- Põrandakatja
+- Raudteeveeremi hooldustehnik
+- Saematerjalide tootja ja töötleja
+- Side- ja võrgutehnoloogia
+- Sillutise paigaldaja
+- Soojusseadmete käitaja
+- Suurköögikokk
+- Tekstiilikäsitöö
+- Tekstiiliseadmete operaator
+- Tekstiilkäsitöö
+- Tekstiiltoodete disain ja -tehnoloogia
+- Telemarketingi konsultant
+- Termiliste päikeseküttesüsteemide paigaldaja
+- Tolliinspektor
+- Trükiste järeltöötlusseadmete operaator
+- Turvasüsteemide paigaldaja
+- Tööstuse digitehnoloogia
+- Vastuvõtu- ja majapidamistööde korraldus
+- Ventilatsioonilukksepp
+- Veoauto- ja bussidiagnostik
+- Visuaalmeedia tehnoloogia
+- Võsasaetööline
+
+## Only in Haridusilm (11)
+- Kinnisvara hooldusmeister
+- Massaaži eriala: spordimassöör
+- Rahvuslik puutööndus
+- Rõivaõmblemine
+- Sekretäritöö
+- Sepatöö
+- Taimekasvatustootja
+- Teabegraafik
+- Tekstiilitöö
+- Tekstiilkäsitööline
+- Telekommunikatsiooni seadmete spetsialist
 
 ## Statistics
-- **Match rate**: 57.0% (based on larger dataset)
-- **Overlap**: 212 curricula found in both datasets
-- **Haridusportaal coverage**: 92.2%
-- **Haridusilm coverage**: 57.0%
+- **Match rate**: 82.1% (based on larger dataset)
+- **Overlap**: 354 curricula found in both datasets
+- **Haridusportaal coverage**: 82.1%
+- **Haridusilm coverage**: 97.0%
